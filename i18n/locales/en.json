@@ -1,0 +1,354 @@
+{
+    "settings": {
+        "switchToEnglish": "Switch Language to English",
+        "switchToFilipino": "Switch Language to Filipino",
+        "confirmTitle": "Confirm Language Switch",
+        "confirmMessage": "Are you sure you want to switch to {{lang}}?",
+        "cancel": "Cancel",
+        "yes": "Yes",
+        "titleText": "Settings"
+    },
+    "home": {
+        "greetingHi": "Hi there!",
+        "explorePrompt": "What would you like to explore today?",
+        "culturalInsightsDescription": "Explore Kapampángan Culture! Learn about traditions, beliefs, and festivals, from birth practices to vibrant celebrations.",
+        "tasteAndTuneDescription": "Explore a library of folk songs with lyrics and audio, and discover iconic Kapampangan dishes with images and descriptions.",
+        "languageDescription": "Learn Kapampángan with ease! Three categories of lessons: Basic Vocabulary, Grammar, and the Kapampangan Alphabet.",
+        "culturalInsightsTitle": "Cultural Insights",
+        "tasteAndTuneTitle": "Taste and Tune",
+        "languageTitle": "Kapampangan Language",
+        "buttonStart": "START",
+        "exitTitle": "Exit App",
+        "exitMessage": "Are you sure you want to exit?",
+        "cancel": "Cancel",
+        "exit": "Exit"
+    },
+    "about": {
+        "title": "About",
+        "description": "This mobile application was developed to make learning the Kapampangan language and culture more interactive and accessible. Designed for students, educators, and enthusiasts, it offers engaging lessons, quizzes, and cultural insights to enhance understanding and appreciation. While not a replacement for formal education, it serves as a valuable tool in preserving and promoting Kapampangan heritage in a modern, digital way.",
+        "team": "Development Team",
+        "acknowledgementTitle": "Acknowledgement",
+        "acknowledgementSpecialThanks": "Special thanks to {{name}} for his illustrations of Kapampangan deities.",
+        "acknowledgementText": "We would like to express our heartfelt gratitude to our cultural partners and institutions for their invaluable guidance, support, and resources in the development of this application.\n\nOur deepest thanks to Arti Sta. Rita for generously sharing Kapampangan folk songs, and to the Center for Kapampangan Studies for providing essential information and cultural insights that enriched the content of this project.",
+        "partners": "Institutional Partners",
+        "references": "References",
+        "ref1": "A. Gutierrez (2022). The Language Shift from the Middle and Upper Middle-Class Families in the Kapampangan Speaking Region.",
+        "ref2": "J. Cruz (2020). Towards an assessment of Kapampangan language vitality.",
+        "ref3": "A. Gutierrez (2024). The changing landscape of Kapampangan vocabularies: A diachronic analysis. J. Philippine Linguistics.",
+        "ref4": "P. Leuterio and D. Vargas (2021). Intergenerational transmission of food cultures in the Philippines. SSRN Electron. J.",
+        "ref5": "E. Pamintuan (2022). Singsing: Preserving the Kapampangan language through technology.",
+        "ref6": "O. Viberg, B. Wasson, and A. Kukulska-Hulme (2020). Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual framework. Australas. J. Educ. Technol.",
+        "ref7": "S. M. Croucher and E. Kramer (2016). Cultural fusion theory: An alternative to acculturation. J. Int. Intercult. Commun.",
+        "ref8": "M. Koole and K. Wâsakâyâsiw Lewis (2018). Mobile learning as a tool for indigenous language revitalization and sustainability in Canada. Int. J. Mobile Blended Learn.",
+        "ref9": "J. Garcia (2020). Gintu king kalinangan Kapampangan (Gold in Kapampangan culture). SunStar Pampanga."
+    },
+    "nav": {
+        "home": "Home",
+        "assessment": "Assessment",
+        "settings": "Settings",
+        "about": "About"
+    },
+    "assessment": {
+        "title": "Assessment",
+        "introText": "Test your knowledge and reinforce learning with interactive quizzes.",
+        "progress": "Progress",
+        "buttonStart": "START",
+        "locked": "Locked",
+        "unlocked": "Unlocked",
+        "passed": "Passed",
+        "cards": {
+            "beliefs": "Kapampangan Beliefs and Practices",
+            "festivals": "Kapampangan Festival and Tradition",
+            "religion": "Kapampangan Indigenous Religion",
+            "grammar": "Grammar",
+            "vocabulary": "Basic Vocabulary",
+            "alphabets": "Kapampangan Alphabets"
+        }
+    },
+    "culturalInsights": {
+        "introTitle": "Discover Kapampangan Cultural Insights: Beliefs, Practices, and Traditions.",
+        "introText": "Uncover the rich traditions, deep-rooted beliefs, and vibrant festivals of the Kapampangan people.",
+        "beliefsTitle": "Kapampangan Beliefs and Practices",
+        "beliefsSubtitle": "Kapaniwala at gawi ning kapampangan",
+        "beliefsDescription": "Discover traditions and practices that shape the Kapampangan identity.",
+        "festivalTitle": "Kapampangan Festival and Tradition",
+        "festivalSubtitle": "Pista ampo gawi ning Kapampangan",
+        "festivalDescription": "Learn about colorful festivals and cherished traditions.",
+        "indigenousTitle": "Kapampangan Indigenous Religion",
+        "indigenousSubtitle": "SKatutubung Sampalataya ning Kapampangan",
+        "indigenousDescription": "Explore the native beliefs and spiritual practices of the Kapampangan people."
+    },
+    "common": {
+        "learn": "Learn",
+        "learnButton": "Learn",
+        "search": "Search..."
+    },
+    "tasteAndTune": {
+        "introTitle": "Taste and Tune: A Journey Through Kapampangan Flavors and Melodies",
+        "introText": "Experience Kapampangan culture through its iconic dishes and soulful folk songs, each carrying rich flavors, history, and tradition.",
+        "folkSongsTitle": "Folk Songs Library",
+        "folkSongsDescription": "Immerse yourself in the soulful melodies of Kapampangan folk songs.",
+        "cuisineTitle": "Kapampangan Cuisine Gallery",
+        "cuisineDescription": "Experience the rich flavors of Kapampangan cuisine."
+    },
+    "folkSongsLibrary": {
+        "title": "Kapampángan Folk Songs Library",
+        "description": "Explore traditional Kapampángan folk songs that echo the culture, history, and spirit of the region.",
+        "searchPlaceholder": "Search song...",
+        "noSongs": "No songs found"
+    },
+    "player": {
+        "nowPlaying": "Now Playing",
+        "lyrics": "Lyrics"
+    },
+    "cuisineGallery": {
+        "title": "Kapampángan Cuisine Gallery",
+        "intro": "Explore the rich flavors of Kapampángan cuisine through traditional dishes and delicacies that celebrate the region's heritage and culinary artistry!"
+    },
+    "dish": {
+        "descriptionButton": "Description"
+    },
+    "dishes": {
+        "asadongmatua": {
+            "description": "A classic Kapampangan dish of whole pork rump, slow-braised in a rich, savory-sweet sauce of soy sauce, vinegar, tomatoes, and aromatic spices until fall-apart tender."
+        },
+        "bagis": {
+            "description": "A zesty and savory Kapampangan dish of sautéed ground beef or pork, simmered in a bright, tangy sauce of fresh calamansi juice, onions, and chili peppers."
+        },
+        "begucanbabi": {
+            "description": "A Kapampangan version of bagoong guisado, this pork dish is simmered in rinsed fermented shrimp paste (alamang) and a generous amount of fresh tomatoes, which mellows the saltiness and adds a subtle, refreshing tang."
+        },
+        "bringhi": {
+            "description": "A festive Kapampangan rice dish similar to paella. Sticky glutinous rice is cooked in turmeric-infused coconut milk with chicken, chorizo de Bilbao, and vegetables, resulting in a uniquely rich, creamy, and savory one-pot meal for special occasions."
+        },
+        "bulanglang": {
+            "description": "A uniquely Kapampangan sour soup where pork belly is simmered with unripe guava, kangkong (water spinach), and gabi (taro) to create a light, refreshing, and tangy broth that is both comforting and delicious."
+        },
+        "guiso": {
+            "description": "A sweet and tangy Kapampangan stew of pork, chicken, hotdogs, and liver simmered in a distinctive tomato sauce with pickles, offering a unique flavor profile that sets it apart from the similar-looking menudo."
+        },
+        "kilayin": {
+            "description": "A hearty and tangy Kapampangan stew of pork and liver, slow-cooked in vinegar, soy sauce, and aromatic spices until tender, creating a rich, savory, and deeply flavorful dish that is traditionally served over steamed rice."
+        },
+        "lumpiangubod": {
+            "description": "A delicate Kapampangan fresh spring roll featuring the tender core of the coconut palm (ubod) as its star ingredient, sautéed with shrimp and pork, then wrapped in a soft crepe and topped with a rich, savory garlic-peanut sauce."
+        },
+        "morcon": {
+            "description": "A rich and festive Kapampangan meatloaf made from a mixture of ground pork, beef, chorizo, raisins, and cheese, wrapped in pig's caul fat and steamed until tender. It is traditionally served sliced and submerged in its own flavorful drippings, creating an exceptionally moist and savory dish."
+        },
+        "pancitpalabok": {
+            "description": "A classic Kapampangan noodle dish where rice noodles are smothered in a vibrant, thick orange sauce made from shrimp broth, ground pork, and annatto. It's generously garnished with hard-boiled eggs, shrimp, crushed chicharrón, and green onions for a symphony of textures and flavors."
+        },
+        "sabokamatis": {
+            "description": "A light and refreshing Kapampangan tomato soup where pork or beef bones are slowly simmered with fresh tomatoes, onions, and garlic, creating a clear, savory broth. It is traditionally served with fresh vegetables like bok choy, cabbage, and radish."
+        },
+        "sipoegg": {
+            "description": "A rich and creamy Kapampangan vegetable dish featuring a medley of mixed vegetables and quail eggs, all smothered in a decadent, buttery sauce. This comforting and versatile dish is delicious on its own or as a side with steamed rice."
+        },
+        "sisig": {
+            "description": "The iconic Kapampangan delicacy and the Philippines' celebrated sizzling dish. Traditionally made from grilled pig's head (ears and face) and liver, chopped and seasoned with calamansi, onions, and chili peppers. Authentic Kapampangan sisig is prized for its simple, balanced flavors that highlight the smokiness of the grilled meat."
+        },
+        "tidtad": {
+            "description": "A bold and authentic Kapampangan stew that defines the region's culinary heritage. Tender pork and liver are slow-cooked in a rich, luxurious sauce thickened with fresh pig's blood and a medley of spices, resulting in a deeply savory, hearty, and intensely flavorful dish."
+        },
+        "tocinoorpindang": {
+            "description": "A classic Kapampangan sweet cured pork, traditionally made by marinating slices of pork in a mixture of sugar, salt, and annatto for its characteristic reddish hue. Pan-fried until caramelized and slightly charred, it is a beloved sweet, salty, and savory breakfast staple."
+        }
+    },
+    "language": {
+        "introTitle": "Master Kapampangan: Learn Words, Structure, and Writing!",
+        "introText": "Start your journey with essential vocabulary, understand grammar rules, and learn the beauty of the Kapampangan script. Step by step, build confidence in speaking and writing!",
+        "cards": {
+            "grammar": {
+                "title": "Grammar",
+                "description": "Understand the foundations of Kapampangan grammar"
+            },
+            "vocab": {
+                "title": "Basic Vocabulary",
+                "description": "Expand your vocabulary with essential words and phrases for daily conversations."
+            },
+            "alphabet": {
+                "title": "Kapampángan Alphabets",
+                "description": "Discover the elegant Kapampangan script and its unique characters."
+            }
+        }
+    },
+    "vocab": {
+        "header": "Basic Vocabulary",
+        "intro": "Discover the beauty of the Kapampangan language with essential words and phrases to help you communicate and connect with native speakers!",
+        "searchPlaceholder": "Search...",
+        "noResults": "No vocabulary words found."
+    },
+    "grammar": {
+        "header": "Grammar",
+        "predicates": {
+            "title": "Predicates",
+            "description": "Understand how predicates function in Kapampangan sentences to convey actions or states clearly."
+        },
+        "verbConjugation": {
+            "title": "Verb Conjugation",
+            "description": "Learn how verbs change according to tense, focus, and aspect in Kapampangan."
+        },
+        "nounsIntoVerbs": {
+            "title": "Nouns Into Verbs",
+            "description": "Explore how Kapampangan transforms nouns into actionable words using affixes."
+        },
+        "adjectivesIntoVerbs": {
+            "title": "Adjectives Into Verbs",
+            "description": "See how descriptive words turn into actions in Kapampangan through verb formation."
+        },
+        "pronouns": {
+            "title": "Pronouns",
+            "description": "Master the use of personal, possessive, and objective pronouns in Kapampangan."
+        },
+        "demonstrativePronouns": {
+            "title": "Demonstrative Pronouns",
+            "description": "Learn how to point out specific things or people using demonstratives in Kapampangan."
+        }
+    },
+    "alphabet": {
+        "title": "Kulitan Alphabets",
+        "intro": "Discover the beauty of the Kapampangan language with essential words and phrases to help you communicate and connect with native speakers!",
+        "noResults": "No matching letters found."
+    },
+    "predicates": {
+        "title": "Predicates",
+        "cards": {
+            "nominal": "Nominal Predicate",
+            "adjective": "Adjective Predicate",
+            "verbal": "Verbal Predicate"
+        }
+    },
+    "verbConjugation": {
+        "headerTitle": "Verb Conjugation",
+        "predicates": {
+            "cards": {
+                "agentFocus": "Agent Focus",
+                "patientFocus": "Patient Focus"
+            }
+        },
+        "filipino": "Filipino",
+        "english": "English"
+    },
+    "instructions_title": "INSTRUCTIONS",
+    "instructions_text": "Select the correct answer from the four options provided. You have 30 seconds to answer each question. Complete at least 15 questions and score at least 75 percent to pass.",
+    "start_button": "Start",
+    "time_left": "Time left: {{seconds}}s",
+    "exit_title": "Finish Exam First",
+    "exit_text": "You must finish the exam before leaving.",
+    "exit_ok": "OK",
+    "question_tip": "Tap the correct answer from the given options.",
+    "next_button": "NEXT",
+    "matching_instructions_title": "INSTRUCTIONS",
+    "matching_instructions_text": "Tap a definition (left) then tap the blank slot under the matching term (right) to place it. Tap again to remove. You have 2 minutes per set.",
+    "matching_start": "Start",
+    "matching_exit_title": "Finish Assessment",
+    "matching_exit_text": "You must complete the assessment before leaving.",
+    "matching_ok": "OK",
+    "matching_definitions": "Definitions",
+    "matching_questions": "Questions",
+    "matching_placeholder": "Tap to place answer",
+    "matching_time_left": "Time left: {{seconds}}s",
+    "matching_next": "Next",
+    "matching_finish": "Finish",
+    "intro": "Welcome! Tap the logo anytime to start the tutorial. Let’s begin with Cultural Insights, because culture must come first before Kapampangan cuisines, music and language.",
+    "culturalInsightsT": "Here you’ll learn about Kapampangan culture and traditions.",
+    "tasteAndTuneT": "Next, discover the rich flavors of Kapampangan cuisine and the rhythm of its music.",
+    "languageT": "Finally, explore the Kapampangan language and practice speaking.",
+    "buttons": {
+    "previous": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "finish": "Done"
+},
+
+  "review": {
+    "loading": "Loading review...",
+    "noAnswers": "No answers found for review.",
+    "scoreTitle": "Your Score",
+    "scoreMessage": "You scored {{score}} out of {{total}}",
+    "yourAnswer": "Your answer",
+    "noAnswer": "No answer",
+    "correctAnswer": "Correct answer",
+    "exit": "Exit"
+  },
+
+  "assessmentR": {
+  "result": {
+    "niceWork": "Nice Work",
+    "tryAgain": "Try Again",
+    "youEarned": "You earned {{score}} pts",
+    "continue": "Continue",
+    "reviewAnswers": "Review Answers"
+  }
+},
+  "beliefs": {
+    "title": "Kapampangan Beliefs and Practices",
+    "intro": "Experience the joy, faith, and artistry of the Kapampangan people through their colorful festivals and timeless traditions!",
+    "sectionTitle": "Beliefs and Practices",
+    "sectionDesc": "Just like the other ethnolinguistic groups, the Kapampangans have rich customs and traditions governing the rites of passage. Some of these practices are still being observed nowadays.",
+    "birthTitle": "Birth Practices & Baptismal Rites",
+    "birthDesc": "In one of the barrios of Guagua, Pampanga, close relatives of a woman who is about to deliver a child, together with their neighbor, make noise like shouting, beating tin cans and exploding firecrackers in order to help expel the fetus faster. In many Kapampangan houses, the baby's baptismal dress serves as a souvenir and decoration for the sala.",
+    "courtshipTitle": "Courtship and Marriage",
+    "courtshipDesc": "The pamanhikan, where the male, with the permission of the parents, is to visit the girl in the latter's house.",
+    "deathTitle": "Death and Burial",
+    "deathDesc": "The wake (makipaglame) lasts for at least three days and two nights after which everybody participates in the libing (interment).",
+    "supernaturalTitle": "Supernatural Beliefs",
+    "supernatural": {
+     "nunu": "An old man who resides in mounds. They are believed to cause illness or misfortune to those who disturb their dwelling places.",
+      "mangkukulam": "A witch or sorcerer who uses black magic to harm others. They are believed to feast on flesh and blood, or cast spells that cause sickness and misfortune.",
+      "tianak": "An evil spirit that takes the form of a baby. It cries in the forest to lure unsuspecting passersby. Once picked up, it reveals its true form and attacks its victim.",
+      "dwende": "Dwarves or spirits that live in anthills, trees, or dark places. They can be good or bad, bringing fortune to those who respect them or causing harm to those who mock them.",
+      "kapre": "A nocturnal giant who lives atop tall trees, usually smoking a big cigar. Known to frighten people at night but generally harmless unless provoked.",
+      "magkukutud": "Mystical beings believed to possess supernatural powers. In Kapampangan folklore, they are sometimes associated with midwives who have healing abilities or magical knowledge."
+    }
+    },
+    
+  "festival": {
+    "title": "Kapampángan Festival and Tradition",
+    "intro": "Learn the Kapampángan Alphabet and its unique characters to build a strong foundation in reading, writing, and pronunciation!",
+    "kuraldal": {
+      "title": "The Kuraldal of Sasmuán",
+      "desc": "Kapampangans celebrate the Kuraldal in many towns, but the most intense takes place in Sasmuan. The festival begins on December 13 (Feast of St. Lucy) and peaks on January 6 and 10, marking the end of the Christmas season. Devotees dance wildly, shouting “Viva Apu Lucia! Puera sakit!” — believed to bring blessings, including fertility for barren mothers.",
+      "imageSource": "Image Source: https://festivityo.com/wp-content/uploads/2021/05/dancing_ritual_and_dance.jpg"
+    },
+    "aguman": {
+      "title": "Aguman Sanduk of Minalin",
+      "desc": "Held every January 1, the Aguman Sanduk (Fellowship of the Ladle) is a unique tradition in Minalin, Pampanga, where men dress in women’s clothing and parade through the streets. Started in 1934 as a playful dare, it symbolizes fun, freedom, and camaraderie. A highlight is the coronation of the Reyna ning Aguman Sanduk.",
+      "imageSource": "Image Source: https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/01/02/20230102-gracet.jpg"
+    },
+    "batalla": {
+      "title": "The Batalla Festival",
+      "desc": "A festival that re-enacts the battle between the native Muslim Moor and the new colonist native Capampangan Christians. They start the battle in Ugtung-aldo and end in Sisilim with the tune of Macabebeanons and Masantuleños called BATTALA Masantol, Macabebe and Lubao."
+    },
+    "danum": {
+      "title": "Piestang Danum",
+      "desc": "The Pistang Danum of the barrios, where food is served on floating banana rafts on the waters of the Pampanga River, was originally a non-Christian holiday that is now made to coincide with the baptism of Christ."
+    },
+    "apung": {
+      "title": "Apung Iru Fluvial Procession",
+      "desc": "The colourful Apung Iru fluvial procession of Apalit, once a thanksgiving celebration in honour of the river, has become the feast of Saint Peter.",
+      "imageSource": "Image Source: https://pampangaqueensvoice.wordpress.com/wp-content/uploads/2014/05/sss_festival2011sss0460.jpg"
+    }
+  },
+
+  
+  "indigenousReligion": {
+    "title": "Kapampángan Indigenous Religion",
+    "introTitle": "Introduction",
+    "introText": "The Kapampángan Indigenous Religion is rooted in deep respect for nature, the cosmos, and ancestral spirits. Each deity represents powerful forces of life, from the sun and moon to rivers, stars, and natural elements. These deities were once central to rituals, agriculture, and community life before colonial influences reshaped spiritual traditions.",
+    "experience": "Experience the joy, faith, and artistry of the Kapampangan people through their colorful festivals and timeless traditions!",
+    "close": "Close"
+  }
+}
+
+
+  
+
+
+
+
+
+
+
+

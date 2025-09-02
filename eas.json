@@ -1,0 +1,38 @@
+{
+  "cli": {
+    "appVersionSource": "local"
+  },
+  "build": {
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {
+        "simulator": false,
+        "distribution": "store"
+      }
+    },
+    "development": {
+      "android": {
+        "developmentClient": true,
+        "distribution": "internal"
+      },
+      "ios": {
+        "simulator": false,
+        "developmentClient": true,
+        "distribution": "internal"
+      }
+    },
+    "apk": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview": {
+      "ios": {
+        "simulator": false,
+        "distribution": "store"
+      }
+    }
+  }
+}

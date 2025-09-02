@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Sino ang itinuturing na dakilang nakatatanda at tagapaglikha ng kalangitan sa mitolohiyang Kapampangan?",
+    "options": ["Aring Sinukuan", "Mangatia", "Apûng Malyari", "Indung Tibuan"],
+    "answer": "Mangatia"
+  },
+  {
+    "question": "Aling diyos ang Kapampangang diyos ng araw, digmaan, at kamatayan, at nagturo rin ng metalurhiya at kultura ng palay?",
+    "options": ["Gatpanapun", "Tala", "Aring Sinukuan", "Lakandanup"],
+    "answer": "Aring Sinukuan"
+  },
+  {
+    "question": "Sino ang diyos ng buwan na naninirahan sa Mt. Pinatubo at namumuno sa walong ilog?",
+    "options": ["Apûng Malyari", "Mangechay", "Lakanapi", "Cargo-Cargo"],
+    "answer": "Apûng Malyari"
+  },
+  {
+    "question": "Aling diyos ang kilala bilang maliwanag na bituin at nagpakilala ng kultura ng palayan (wet-rice culture)?",
+    "options": ["Tala", "Sisilim", "Lakanbini", "Munag Sumalâ"],
+    "answer": "Tala"
+  },
+  {
+    "question": "Sino ang kilala rin bilang gintong ahas at kumakatawan sa bukang-liwayway?",
+    "options": ["Lakandanup", "Munag Sumalâ", "Lakanbini", "Angin"],
+    "answer": "Munag Sumalâ"
+  },
+  {
+    "question": "Ano ang tinutukoy ng katutubong relihiyon ng Kapampangan?",
+    "options": [
+      "Ang mga tradisyonal na paniniwala at kasanayan ng mga Kapampangan bago ang mga banyagang impluwensya",
+      "Ang mga modernong Kristiyanong kasanayan sa Pampanga",
+      "Mga relihiyosong pista na ipinakilala noong pananakop ng mga Kastila",
+      "Mga paniniwalang siyentipiko ng Kanluran na pinagtibay sa mga komunidad ng Kapampangan"
+    ],
+    "answer": "Ang mga tradisyonal na paniniwala at kasanayan ng mga Kapampangan bago ang mga banyagang impluwensya"
+  },
+  {
+    "question": "Sino ang ang pangalan ay nangangahulugang 'hapon' at anak ni Aring Sinukuan na tanging kasiyahan lamang ang alam?",
+    "options": ["Gatpanapun", "Lakandanup", "Munag Sumalâ", "Cargo-Cargo"],
+    "answer": "Gatpanapun"
+  },
+  {
+    "question": "Isang dambuhalang diyos-buwaya na sumusuporta sa daigdig?",
+    "options": ["Indung Tibuan", "Apung Iru", "Sisilim", "Lakanbini"],
+    "answer": "Apung Iru"
+  },
+  {
+    "question": "Sino ang anak ni Apûng Malyari at kumakatawan sa takipsilim, na binabati ng mga awit ng kuliglig (cicada)?",
+    "options": ["Tala", "Sisilim", "Munag Sumalâ", "Angin"],
+    "answer": "Sisilim"
+  },
+  {
+    "question": "Isang diyos ng hangin?",
+    "options": ["Galurâ", "Nága", "Angin", "Apung Iru"],
+    "answer": "Angin"
+  },
+  {
+    "question": "Aling diyos na ahas ang itinuturing na mapagkalinga at kumikilos bilang agimat laban sa sunog?",
+    "options": ["Lakandanum", "Naga", "Lakanapi", "Cargo-Cargo"],
+    "answer": "Naga"
+  },
+  {
+    "question": "Aling diyos ang isang variant ng Naga na namumuno sa tubig?",
+    "options": ["Lakandanum", "Galurâ", "Lakanapi", "Indung Tibuan"],
+    "answer": "Lakandanum"
+  },
+  {
+    "question": "Sino ang diyosa ng palay?",
+    "options": ["Apung Iru", "Lakanbini", "Cargo-Cargo", "Angin"],
+    "answer": "Lakanbini"
+  },
+  {
+    "question": "Aling diyos ng apoy, sa anyo ng isang dragon na ahas, ang nagdudulot ng mga lindol?",
+    "options": ["Lakanapi", "Lakandanup", "Galurâ", "Angin"],
+    "answer": "Lakanapi"
+  },
+  {
+    "question": "Sino ang diyosa ng lupa ng Kapampangan?",
+    "options": ["Lakanbini", "Tala", "Indung Tibuan", "Sisilim"],
+    "answer": "Indung Tibuan"
+  }
+]

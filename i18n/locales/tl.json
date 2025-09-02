@@ -1,0 +1,352 @@
+{
+    "settings": {
+        "switchToEnglish": "Lumipat sa Ingles",
+        "switchToFilipino": "Lumipat sa Filipino",
+        "confirmTitle": "Kumpirmahin ang Pagpalit ng Wika",
+        "confirmMessage": "Sigurado ka bang gusto mong lumipat sa {{lang}}?",
+        "cancel": "Kanselahin",
+        "yes": "Oo",
+        "titleText": "Mga Setting",
+        "errorTitle": "Wika ay Nakapili na",
+        "errorMessage": "Ginagamit mo na ang wika na ito"
+    },
+    "home": {
+        "greetingHi": "Kumusta!",
+        "explorePrompt": "Ano ang gusto mong tuklasin ngayon?",
+        "culturalInsightsDescription": "Tuklasin ang Kultura ng Kapampángan! Alamin ang mga tradisyon, paniniwala, at pista, mula sa mga kaugaliang pangkapanganakan hanggang sa makulay na pagdiriwang.",
+        "tasteAndTuneDescription": "Tuklasin ang isang aklatan ng mga awiting bayan na may mga liriko at audio, at alamin ang mga tanyag na pagkaing Kapampangan na may mga larawan at paglalarawan.",
+        "languageDescription": "Matuto ng Kapampángan nang madali! Tatlong kategorya ng aralin: Pangunahing Bokabularyo, Balarila, at Alpabetong Kapampangan.",
+        "culturalInsightsTitle": "Pagpapalalim sa Kultura",
+        "tasteAndTuneTitle": "Lasa at Tugtog",
+        "languageTitle": "Wikang Kapampangan",
+        "buttonStart": "TUKLASIN",
+        "exitTitle": "Lumabas sa App",
+        "exitMessage": "Sigurado ka bang gusto mong lumabas?",
+        "cancel": "Kanselahin",
+        "exit": "Lumabas"
+    },
+    "about": {
+        "title": "Ukol",
+        "description": "Ang app na ito ay nilikha upang mapanatili at maitaguyod ang wika at kulturang Kapampángan. Nag-aalok ito ng mga aralin, kaalamang pangkultura, at mga sanggunian upang matulungan ang mga nag-aaral at mahilig tuklasin at pahalagahan ang pamana ng Kapampángan.",
+        "team": "Pangkat ng mga Tagapagpaunlad",
+        "acknowledgementTitle": "Pasasalamat",
+        "acknowledgementSpecialThanks": "Pasasalamat kay {{name}} para sa kanyang mga ilustrasyon ng mga diyos ng Kapampangan.",
+        "acknowledgementText": "Lubos kaming nagpapahayag ng aming taos-pusong pasasalamat sa aming mga katuwang na pangkultura at mga institusyon para sa kanilang mahalagang gabay, suporta, at mga mapagkukunan sa pagbuo ng app na ito.\n\nIsang espesyal na pasasalamat sa Arti Sta. Rita para sa pagbabahagi ng mga kantang-bayan ng Kapampangan, at sa Center for Kapampangan Studies para sa pagbibigay ng mahahalagang impormasyon at kaalamang pangkultura na higit pang nagpayaman sa proyektong ito.",
+        "partners": "Mga Institusyonal na Katuwang",
+        "references": "Mga Sanggunian",
+        "ref1": "A. Gutierrez (2022). The Language Shift from the Middle and Upper Middle-Class Families in the Kapampangan Speaking Region.",
+        "ref2": "J. Cruz (2020). Towards an assessment of Kapampangan language vitality.",
+        "ref3": "A. Gutierrez (2024). The changing landscape of Kapampangan vocabularies: A diachronic analysis. J. Philippine Linguistics.",
+        "ref4": "P. Leuterio and D. Vargas (2021). Intergenerational transmission of food cultures in the Philippines. SSRN Electron. J.",
+        "ref5": "E. Pamintuan (2022). Singsing: Preserving the Kapampangan language through technology.",
+        "ref6": "O. Viberg, B. Wasson, and A. Kukulska-Hulme (2020). Mobile-assisted language learning through learning analytics for self-regulated learning (MALLAS): A conceptual framework. Australas. J. Educ. Technol.",
+        "ref7": "S. M. Croucher and E. Kramer (2016). Cultural fusion theory: An alternative to acculturation. J. Int. Intercult. Commun.",
+        "ref8": "M. Koole and K. Wâsakâyâsiw Lewis (2018). Mobile learning as a tool for indigenous language revitalization and sustainability in Canada. Int. J. Mobile Blended Learn.",
+        "ref9": "J. Garcia (2020). Gintu king kalinangan Kapampangan (Gold in Kapampangan culture). SunStar Pampanga."
+    },
+    "nav": {
+        "home": "Simula",
+        "assessment": "Pagsusuri",
+        "settings": "Mga Setting",
+        "about": "Ukol"
+    },
+    "assessment": {
+        "title": "Pagsusuri",
+        "introText": "Subukin ang iyong kaalaman at palalimin ang pagkatuto gamit ang mga interaktibong pagsusulit.",
+        "progress": "Progreso",
+        "buttonStart": "SIMULAN",
+        "locked": "Sarado",
+        "unlocked": "Bukas",
+        "passed": "Tapos na",
+        "cards": {
+            "beliefs": "Paniniwala at Gawi",
+            "festivals": "Pista at Tradisyon",
+            "religion": "Katutubong Relihiyon",
+            "grammar": "Balarila",
+            "vocabulary": "Pangunahing Bokabularyo",
+            "alphabets": "Alpabeto ng Kapampangan"
+        }
+    },
+    "culturalInsights": {
+        "introTitle": "Tuklasin ang mga Kultural na Kaalaman ng Kapampangan: Paniniwala, Gawi, at Tradisyon.",
+        "introText": "Alamin ang mayamang tradisyon, malalim na paniniwala, at makukulay na pista ng mga Kapampangan.",
+        "beliefsTitle": "Paniniwala at Kaugalian",
+        "beliefsSubtitle": "Kapaniwala at gawi ning kapampangan",
+        "beliefsDescription": "Alamin ang tradisyon at kaugalian ng mga Kapampangan.",
+        "festivalTitle": "Pista at Tradisyon",
+        "festivalSubtitle": "Pista ampo gawi ning Kapampangan",
+        "festivalDescription": "Kilalanin ang makukulay na pista at kaugalian.",
+        "indigenousTitle": "Katutubong Relihiyon",
+        "indigenousSubtitle": "Katutubung Sampalataya ning Kapampangan",
+        "indigenousDescription": "Tuklasin ang sinaunang paniniwala ng Kapampangan."
+    },
+    "common": {
+        "learn": "Matuto",
+        "learnButton": "Matuto",
+        "search": "Maghanap..."
+    },
+    "tasteAndTune": {
+        "introTitle": "Lasa at Tugtog: Isang Paglalakbay sa Mga Lasa at Himig ng Kapampangan",
+        "introText": "Danasin ang kulturang Kapampangan sa pamamagitan ng mga tanyag na putahe at makabagbag-damdaming awiting bayan, bawat isa ay may dalang kasaysayan at tradisyon.",
+        "folkSongsTitle": "Aklatan ng Awiting Bayan",
+        "folkSongsDescription": "Dumugtong sa makabagbag-damdaming himig ng mga awiting bayan ng Kapampangan.",
+        "cuisineTitle": "Lutuing Kapampangan",
+        "cuisineDescription": "Lasapin ang mayamang lasa ng pagkaing Kapampangan."
+    },
+    "folkSongsLibrary": {
+        "title": "Aklatan ng mga Awiting Bayan",
+        "description": "Tuklasin ang mga tradisyunal na awiting bayan ng Kapampangan na sumasalamin sa kultura, kasaysayan, at diwa ng rehiyon.",
+        "searchPlaceholder": "Maghanap ng kanta...",
+        "noSongs": "Walang nakitang kanta"
+    },
+    "player": {
+        "nowPlaying": "Kasalukuyang Tinutugtog",
+        "lyrics": "Mga Liriko"
+    },
+    "cuisineGallery": {
+        "title": "Lutuing Kapampángan",
+        "intro": "Tuklasin ang masasarap na lasa ng lutuing Kapampángan sa pamamagitan ng mga tradisyunal na putahe at kakanin na nagdiriwang ng kultura at sining ng pagluluto ng rehiyon!"
+    },
+    "dish": {
+        "descriptionButton": "Paglalarawan"
+    },
+    "dishes": {
+        "asadongmatua": {
+            "description": "Isang klasikong putaheng Kapampangan ng buong pigi ng baboy, mabagal na pinakuluan sa masarap at malasa na sarsa ng toyo, suka, kamatis, at mabangong mga pampalasa hanggang sa malagpang-lagpak ang lambot."
+        },
+        "bagis": {
+            "description": "Isang masigla at malasang putaheng Kapampangan ng ginisang giniling na baka o baboy, niluto sa maliwanag at maasim na sarsa ng sariwang calamansi juice, sibuyas, at sili."
+        },
+        "begucanbabi": {
+            "description": "Isang bersyong Kapampangan ng bagoong guisado, ang putaheng baboy na ito ay pinakuluan sa hinugasan na fermented alamang at maraming sariwang kamatis, na nagpapalambot sa alat at nagdaragdag ng bahagyang, nakakapreskong asim."
+        },
+        "bringhi": {
+            "description": "Isang masaganang putaheng Kanin ng Kapampangan na kahawig ng paella. Ang malagkit na kanin ay niluto sa gata na may halong luyang-dilaw kasama ang manok, chorizo de Bilbao, at mga gulay, na nagreresulta sa isang natatanging masarap, magatas, at malasang isang-pots na ulam para sa mga espesyal na okasyon."
+        },
+        "bulanglang": {
+            "description": "Isang natatanging maasim na sabaw ng Kapampangan kung saan ang liempo ay pinakuluan kasama ng hilaw na bayabas, kangkong, at gabi upang makalikha ng isang magaan, nakakapresko, at maasim na sabaw na nakakakomporta at masarap."
+        },
+        "guiso": {
+            "description": "Isang matamis at maasim na nilagang Kapampangan ng baboy, manok, hotdog, at atay na pinakuluan sa natatanging sarsa ng kamatis na may atsara, na nag-aalok ng isang natatanging lasa na naiiba sa itsurang-kamukha nitong menudo."
+        },
+        "kilayin": {
+            "description": "Isang masustansya at maasim na nilagang Kapampangan ng baboy at atay, mabagal na niluto sa suca, toyo, at mabangong pampalasa hanggang sa lumambot, na lumilikha ng isang masarap, malasa, at mayamang putahe na tradisyonal na ihinahain kasama ng mainit na kanin."
+        },
+        "lumpiangubod": {
+            "description": "Isang maselang sariwang lumpiang Kapampangan na ang pangunahing sangkap ay ang malambot na ubod ng niyog, na ginisang kasama ng hipon at baboy, balot sa malambot na crepe, at crowned ng masarap, malasang sarsang bawang at mani."
+        },
+        "morcon": {
+            "description": "Isang masagana at pampistang meatloaf ng Kapampangan na gawa sa pinaghalong giniling na baboy, baka, chorizo, pasas, at keso, balot sa lamang loob ng baboy at pinasingaw hanggang sa lumambot. Ito ay tradisyonal na ihinahain na hiniwa at ibinabad sa sarili nitong malasa na katas, na lumilikha ng isang partikular na basang-basa at malasang ulam."
+        },
+        "pancitpalabok": {
+            "description": "Isang klasikong putaheng pansit ng Kapampangan kung saan ang mga bihon ay tinatakpan ng makulay at makapal na orange na sarsa na gawa sa sabaw ng hipon, giniling na baboy, at atsuwete. Ito'y sagana sa palamuti ng nilagang itlog, hipon, durug-durog na chicharrón, at hiniwang murang sibuyas para sa isang symphony ng mga texture at lasa."
+        },
+        "sabokamatis": {
+            "description": "Isang magaan at nakaka-refresh na sabaw ng kamatis ng Kapampangan kung saan ang buto ng baboy o baka ay mabagal na pinakuluan kasama ng sariwang kamatis, sibuyas, at bawang, na lumilikha ng isang malinaw at malasang sabaw. Ito ay tradisyonal na ihinahain kasama ng mga sariwang gulay tulad ng bok choy, repolyo, at labanos."
+        },
+        "sipoegg": {
+            "description": "Isang masarap at magatas na putaheng gulay ng Kapampangan na may halo-halong mga gulay at itlog ng pugo, na naliliguan ng isang decadent, mantekadang sarsa. Ang nakakakomporta at versatile na ulam na ito ay masarap mag-isa o bilang side dish sa mainit na kanin."
+        },
+        "sisig": {
+            "description": "Ang iconic na delicacy ng Kapampangan at sikat na sizzling dish ng Pilipinas. Tradisyonal na gawa sa inihaw na ulo ng baboy (tenga at maskara) at atay, hiniwa at tinitimplahan ng calamansi, sibuyas, at sili. Ang autentikong Kapampangan sisig ay pinahahalagahan sa payak at balanseng mga lasa nito na nagpapatingkad sa amatsa ng inihaw na karne."
+        },
+        "tidtad": {
+            "description": "Isang matapang at autentikong nilagang Kapampangan na nagpapakita ng pamana ng lutuing rehiyon. Ang malambot na baboy at atay ay mabagal na niluto sa isang masarap at magarang sarsa na pinalapot ng sariwang dugo ng baboy at halo ng mga pampalasa, na nagreresulta sa isang malalim na malasa, masustansya, at masidhing putahe."
+        },
+        "tocinoorpindang": {
+            "description": "Isang klasikong matamis na inasnang baboy ng Kapampangan, tradisyonal na ginagawa sa pagmamarinade ng hiwa ng baboy sa pinaghalong asukal, asin, at atsuwete para sa natatanging pulang kulay nito. Piniprito hanggang sa maging karamelado at bahagyang sunog, ito ay isang minamahal na matamis, maalat, at malasang pang-almusal."
+        }
+    },
+    "language": {
+        "introTitle": "Maging bihasa sa Kapampangan: Matuto ng mga Salita, Estruktura, at Pagsusulat!",
+        "introText": "Simulan ang iyong paglalakbay gamit ang mahahalagang bokabularyo, unawain ang mga tuntunin ng balarila, at tuklasin ang kagandahan ng sulat-Kapampangan. Hakbang-hakbang, magkaroon ng kumpiyansa sa pagsasalita at pagsusulat!",
+        "cards": {
+            "grammar": {
+                "title": "Balarila",
+                "description": "Unawain ang pundasyon ng balarilang Kapampangan."
+            },
+            "vocab": {
+                "title": "Pangunahing Bokabularyo",
+                "description": "Palawakin ang bokabularyo gamit ang mahahalagang salita at parirala sa araw-araw na usapan."
+            },
+            "alphabet": {
+                "title": "Alpabetong Kapampángan",
+                "description": "Tuklasin ang maganda at kakaibang sulat-Kapampangan."
+            }
+        }
+    },
+    "vocab": {
+        "header": "Pangunahing Bokabularyo",
+        "intro": "Tuklasin ang kagandahan ng wikang Kapampangan sa pamamagitan ng mahahalagang salita at parirala upang makatulong sa iyong pakikipag-usap at pakikipag-ugnayan sa mga katutubong tagapagsalita!",
+        "searchPlaceholder": "Maghanap...",
+        "noResults": "Walang nakitang salita."
+    },
+    "grammar": {
+        "header": "Balarila",
+        "predicates": {
+            "title": "Pangungusap",
+            "description": "Unawain kung paano gumagana ang mga panaguri sa mga pangungusap sa Kapampangan upang malinaw na maipahayag ang kilos o kalagayan."
+        },
+        "verbConjugation": {
+            "title": "Pagbabalangkas ng Pandiwa",
+            "description": "Alamin kung paano nagbabago ang mga pandiwa ayon sa panahon, pokus, at aspekto sa Kapampangan."
+        },
+        "nounsIntoVerbs": {
+            "title": "Mga Pangngalan sa Pandiwa",
+            "description": "Tuklasin kung paano ginagawang kilos ang mga pangngalan gamit ang mga panlapi sa Kapampangan."
+        },
+        "adjectivesIntoVerbs": {
+            "title": "Pang-uri sa Pandiwa",
+            "description": "Tingnan kung paano nagiging kilos ang mga paglalarawang salita sa pamamagitan ng pagbubuo ng pandiwa."
+        },
+        "pronouns": {
+            "title": "Panghalip",
+            "description": "Pag-aralan ang paggamit ng personal, pang-ari, at layon na panghalip sa Kapampangan."
+        },
+        "demonstrativePronouns": {
+            "title": "Panghalip Pamatlig",
+            "description": "Alamin kung paano ituro ang tiyak na bagay o tao gamit ang panghalip pamatlig sa Kapampangan."
+        }
+    },
+    "alphabet": {
+        "title": "Alpabetong Kapampángan",
+        "intro": "Tuklasin ang kagandahan ng wikang Kapampangan gamit ang mahahalagang salita at parirala upang matulungan kang makipag-usap at kumonekta sa mga katutubong nagsasalita!",
+        "noResults": "Walang nakitang magkatugmang mga titik."
+    },
+    "predicates": {
+        "title": "Pangungusap",
+        "cards": {
+            "nominal": "Pangngalang Panaguri",
+            "adjective": "Pang-uring Panaguri",
+            "verbal": "Pandiwang Panaguri"
+        }
+    },
+    "verbConjugation": {
+        "headerTitle": "Pagbabalangkas ng Pandiwa",
+        "predicates": {
+            "cards": {
+                "agentFocus": "Pokus ng Gumagawa",
+                "patientFocus": "Pokus ng Bagay"
+            }
+        },
+        "filipino": "Filipino",
+        "english": "Ingles"
+    },
+    "instructions_title": "MGA PANUTO",
+    "instructions_text": "Piliin ang tamang sagot mula sa apat na pagpipilian. Mayroon kang 30 segundo upang sagutin ang bawat tanong. Kumpletuhin ang hindi bababa sa 15 tanong at makakuha ng hindi bababa sa 75 porsyento upang pumasa.",
+    "start_button": "Simulan",
+    "time_left": "Natitirang oras: {{seconds}}s",
+    "exit_title": "Tapusin Muna ang Pagsusulit",
+    "exit_text": "Kailangan mong tapusin ang pagsusulit bago umalis.",
+    "exit_ok": "OK",
+    "question_tip": "Piliin ang tamang sagot mula sa mga ibinigay na pagpipilian.",
+    "next_button": "SUSUNOD",
+    "matching_instructions_title": "MGA PANUTO",
+    "matching_instructions_text": "Piliin ang isang kahulugan (kaliwa) pagkatapos ay i-tap ang bakanteng slot sa ilalim ng kaukulang salita (kanan) upang ilagay ito. Tapikin muli upang alisin. Mayroon kang 2 minuto bawat set.",
+    "matching_start": "Simulan",
+    "matching_exit_title": "Tapusin ang Pagtatasa",
+    "matching_exit_text": "Kailangan mong tapusin ang pagtatasa bago umalis.",
+    "matching_ok": "OK",
+    "matching_definitions": "Mga Kahulugan",
+    "matching_questions": "Mga Tanong",
+    "matching_placeholder": "I-tap upang maglagay ng sagot",
+    "matching_time_left": "Natitirang oras: {{seconds}}s",
+    "matching_next": "Susunod",
+    "matching_finish": "Tapusin",
+    "intro": "Maligayang pagdating! Pindutin ang logo anumang oras upang simulan ang tutorial. Magsimula tayo sa Cultural Insights, sapagkat dapat mauna ang kultura bago ang pagkaing Kapampangan, musika, at wika.",
+    "culturalInsightsT": "Dito mo matutuklasan ang kultura at tradisyon ng mga Kapampangan.",
+    "tasteAndTuneT": "Sunod, tuklasin ang masasarap na putahe ng Kapampangan at ang himig ng kanilang musika.",
+    "languageT": "Sa huli, pag-aralan at gamitin ang wikang Kapampangan.",
+    "buttons": {
+    "previous": "Bumalik",
+    "next": "Susunod",
+    "skip": "Laktawan",
+    "finish": "Tapos"
+},
+
+  "review": {
+    "loading": "Ikinakarga ang pagsusuri...",
+    "noAnswers": "Walang nakitang sagot para sa pagsusuri.",
+    "scoreTitle": "Iyong Iskor",
+    "scoreMessage": "Nakakuha ka ng {{score}} sa {{total}}",
+    "yourAnswer": "Iyong sagot",
+    "noAnswer": "Walang sagot",
+    "correctAnswer": "Tamang sagot",
+    "exit": "Lumabas"
+  },
+
+  "assessmentR": {
+  "result": {
+    "niceWork": "Magaling!",
+    "tryAgain": "Subukan Muli",
+    "youEarned": "Nakakuha ka ng {{score}} puntos",
+    "continue": "Magpatuloy",
+    "reviewAnswers": "Suriin ang mga Sagot"
+  }
+},
+
+  "beliefs": {
+    "title": "Paniniwala at Kaugalian",
+    "intro": "Danasan ang saya, pananampalataya, at sining ng mga Kapampangan sa kanilang makukulay na pista at walang kupas na tradisyon!",
+    "sectionTitle": "Mga Paniniwala at Gawain",
+    "sectionDesc": "Tulad ng ibang pangkat-etniko, mayaman din ang mga Kapampangan sa mga kaugalian at tradisyon na gumagabay sa mga yugto ng buhay. Ang ilan sa mga ito ay isinasagawa pa rin hanggang ngayon.",
+    "birthTitle": "Mga Gawain sa Kapanganakan at Binyag",
+    "birthDesc": "Sa isa sa mga baryo ng Guagua, Pampanga, ang malalapit na kamag-anak ng isang babae na malapit nang manganak, kasama ang kanilang kapitbahay, ay gumagawa ng ingay tulad ng pagsigaw, pagpalo sa mga lata, at pagpapaputok ng kuwitis upang mas mapabilis ang panganganak. Sa maraming tahanang Kapampangan, ang damit-pangbinyag ng sanggol ay nagsisilbing alaala at palamuti sa sala.",
+    "courtshipTitle": "Panliligaw at Kasal",
+    "courtshipDesc": "Ang pamanhikan, kung saan ang lalaki, may pahintulot ng mga magulang, ay bumibisita sa bahay ng babae.",
+    "deathTitle": "Kamatayan at Libing",
+    "deathDesc": "Ang lamay (makipaglame) ay tumatagal ng hindi bababa sa tatlong araw at dalawang gabi bago magsama-sama ang lahat para sa libing (interment).",
+    "supernaturalTitle": "Mga Paniniwalang Supernatural",
+    "supernatural": {
+     "nunu": "Isang matandang nilalang na naninirahan sa mga punso. Pinaniniwalaang nagdudulot sila ng sakit o kamalasan sa mga taong nanggugulo sa kanilang tirahan.",
+      "mangkukulam": "Isang mangkukulam o salamangkero na gumagamit ng itim na mahika upang saktan ang iba. Pinaniniwalaang sumisimsim sila ng laman at dugo, o kaya'y naglalagay ng sumpa na nagdudulot ng sakit at kamalasan.",
+      "tianak": "Isang masamang espiritu na nag-aanyong sanggol. Ito ay umiiyak sa kagubatan upang maakit ang mga nagdaraan. Kapag binuhat, ipinapakita nito ang tunay na anyo at inaatake ang biktima.",
+      "dwende": "Mga duwende o espiritu na naninirahan sa mga punso, puno, o madidilim na lugar. Maaari silang maging mabuti o masama: nagbibigay ng suwerte sa mga gumagalang at nagdudulot ng kapahamakan sa mga nang-aalipusta.",
+      "kapre": "Isang higanteng nilalang na naninirahan sa matataas na puno at madalas na nakikitang nagyoyosi ng malaking tabako. Kilala sa pananakot ng mga tao sa gabi ngunit karaniwang hindi nananakit maliban kung ininis.",
+      "magkukutud": "Mga nilalang na pinaniniwalaang may kakaibang kapangyarihan. Sa kuwentong Kapampangan, minsan silang iniuugnay sa mga hilot na may kakayahang magpagaling o may alam sa mahiwagang karunungan."
+    }
+  },
+  
+  "festival": {
+    "title": "Pista at Tradisyon",
+    "intro": "Alamin ang Alpabetong Kapampángan at ang mga natatanging titik nito upang magkaroon ng matibay na pundasyon sa pagbasa, pagsusulat, at pagbigkas!",
+    "kuraldal": {
+      "title": "Ang Kuraldal ng Sasmuán",
+      "desc": "Ipinagdiriwang ng mga Kapampangan ang Kuraldal sa maraming bayan, ngunit ang pinakamapigting ay nagaganap sa Sasmuan. Nagsisimula ang pagdiriwang tuwing Disyembre 13 (Kapistahan ni Sta. Lucia) at umaabot hanggang Enero 6 at 10, na nagmamarka ng pagtatapos ng kapaskuhan. Ang mga deboto ay sumasayaw nang malwild at sumisigaw ng “Viva Apu Lucia! Puera sakit!” — na pinaniniwalaang nagdadala ng mga biyaya, kabilang ang pagkakaroon ng anak para sa mga inang baog.",
+      "imageSource": "Pinagmulan ng Larawan: https://festivityo.com/wp-content/uploads/2021/05/dancing_ritual_and_dance.jpg"
+    },
+    "aguman": {
+      "title": "Aguman Sanduk ng Minalin",
+      "desc": "Ipinagdiriwang tuwing Enero 1, ang Aguman Sanduk (Kapisanan ng Sandok) ay isang natatanging tradisyon sa Minalin, Pampanga, kung saan ang mga lalaki ay nagbibihis bilang babae at nagmamasada sa mga lansangan. Nagsimula noong 1934 bilang isang biro o hamon, ito ay sumisimbolo ng kasiyahan, kalayaan, at pagkakaisa. Tampok dito ang koronasyon ng Reyna ning Aguman Sanduk.",
+      "imageSource": "Pinagmulan ng Larawan: https://sa.kapamilya.com/absnews/abscbnnews/media/2023/life/01/02/20230102-gracet.jpg"
+    },
+    "batalla": {
+      "title": "Ang Batalla Festival",
+      "desc": "Isang pagdiriwang na muling nagsasadula ng labanan sa pagitan ng mga katutubong Muslim Moro at ng mga bagong mananakop na Kristiyanong Kapampangan. Nagsisimula ang laban sa Ugtung-aldo at nagtatapos sa Sisilim na may tugtog ng mga Macabebeanon at Masantuleño na tinatawag na BATTALA Masantol, Macabebe at Lubao."
+    },
+    "danum": {
+      "title": "Piestang Danum",
+      "desc": "Ang Pistang Danum ng mga baryo, kung saan inihahain ang pagkain sa mga palutang na saging sa tubig ng Ilog Pampanga, ay orihinal na isang hindi Kristiyanong pagdiriwang na ngayo’y ipinagdiriwang kasabay ng pagbibinyag ni Kristo."
+    },
+    "apung": {
+      "title": "Prusisyong Pandagat ng Apung Iru",
+      "desc": "Ang makulay na prusisyong pandagat ng Apung Iru sa Apalit, na dating isang pasasalamat sa ilog, ay naging kapistahan ni San Pedro.",
+      "imageSource": "Pinagmulan ng Larawan: https://pampangaqueensvoice.wordpress.com/wp-content/uploads/2014/05/sss_festival2011sss0460.jpg"
+    }
+  },
+
+  
+  "indigenousReligion": {
+    "title": "Katutubong Relihiyon",
+    "introTitle": "Panimula",
+    "introText": "Ang Kapampángang Katutubong Relihiyon ay nakaugat sa malalim na paggalang sa kalikasan, kalawakan, at mga espiritu ng mga ninuno. Bawat diyos ay kumakatawan sa makapangyarihang puwersa ng buhay, mula sa araw at buwan hanggang sa mga ilog, bituin, at mga likas na elemento. Ang mga diyos na ito ay dating sentro ng mga ritwal, agrikultura, at pamumuhay ng komunidad bago pa man muling hubugin ng impluwensiyang kolonyal ang mga espirituwal na tradisyon.",
+    "experience": "Danasan ang galak, pananampalataya, at sining ng mga Kapampángan sa pamamagitan ng kanilang makukulay na pista at walang kupas na tradisyon!",
+    "close": "Isara"
+  }
+}
+
+
+
+
+
+

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Sa isang barrio ng Guagua, Pampanga, ano ang ginagawa ng mga kamag-anak at kapitbahay para matulungan ang isang babaeng mapabilis ang panganganak?",
+    "options": [
+      "Mag-rosaryo",
+      "Umawit ng mga oyayi",
+      "Mag-ingay tulad ng pagsigaw at pagpalo sa mga lata ng de-lata",
+      "Magdagat ng mga kandila"
+    ],
+    "answer": "Mag-ingay tulad ng pagsigaw at pagpalo sa mga lata ng de-lata"
+  },
+  {
+    "question": "Ano ang terminong Kapampangan para sa tradisyon kung saan ang lalaki ay bumibisita sa bahay ng babae nang may pahintulot ng kanyang mga magulang?",
+    "options": [
+      "Harana",
+      "Pamamanata",
+      "Pamamanhikan",
+      "Paninilbihan"
+    ],
+    "answer": "Pamamanhikan"
+  },
+  {
+    "question": "Sa tradisyong Kapampangan, gaano katagal karaniwang nagtatagal ang lamay (makipaglame) bago ang libing?",
+    "options": [
+      "Hindi bababa sa tatlong araw at dalawang gabi",
+      "Isang araw at isang gabi",
+      "Limang araw at apat na gabi",
+      "Pitong araw at pitong gabi"
+    ],
+    "answer": "Hindi bababa sa tatlong araw at dalawang gabi"
+  },
+  {
+    "question": "Aling tradisyon ng Kapampangan sa Mahal na Araw ang may siyam na araw na prusisyon sa bisperas ng Simbang Gabi?",
+    "options": [
+      "Pasyon Serenata",
+      "Mal a Aldo",
+      "Lubenas",
+      "Via Crucis"
+    ],
+    "answer": "Lubenas"
+  },
+  {
+    "question": "Sa Kapampangan, ano ang tinutukoy ng 'Mal a Aldo'?",
+    "options": [
+      "Mahal na Araw (Holy Week)",
+      "Pasko",
+      "Araw ng mga Santo (Undas)",
+      "Bagong Taon"
+    ],
+    "answer": "Mahal na Araw (Holy Week)"
+  },
+  {
+    "question": "Alin sa mga ito ang isang tradisyon sa Huwebes Santo sa Pampanga?",
+    "options": [
+      "Dakit Cordero",
+      "Harana",
+      "Lubenas",
+      "Flores de Mayo"
+    ],
+    "answer": "Dakit Cordero"
+  },
+  {
+    "question": "Sa paniniwalang Kapampangan, aling supernatural na nilalang ay isang matandang lalaki na nakatira sa mga punso (mounds)?",
+    "options": [
+      "Kapre",
+      "Nuno",
+      "Dwende",
+      "Tikbalang"
+    ],
+    "answer": "Nuno"
+  },
+  {
+    "question": "Ano ang pangalan ng higante na gumagala sa gabi sa alamat ng Kapampangan na humihithit ng tabako at nakatira sa matataas na puno?",
+    "options": [
+      "Aswang",
+      "Manananggal",
+      "Kapre",
+      "Mangkukulam"
+    ],
+    "answer": "Kapre"
+  },
+  {
+    "question": "Aling supernatural na nilalang ang nagpapakita anyong sanggol upang akitin ang mga biktima?",
+    "options": [
+      "Tiyanak / Pantiyanak",
+      "Dwende",
+      "Magkukutud",
+      "Nuno"
+    ],
+    "answer": "Tiyanak / Pantiyanak"
+  },
+  {
+    "question": "Aling supernatural na nilalang ang kumakain ng laman at dugo at may kakila-kilabot na masasamang kapangyarihan?",
+    "options": [
+      "Kapre",
+      "Mangkukulam",
+      "Tikbalang",
+      "Dwende"
+    ],
+    "answer": "Mangkukulam"
+  },
+  {
+    "question": "Ano ang terminong Kapampangan para sa mga nilalang na kayang paghiwalayin ang kanilang pang-itaas at pang-ibabang katawan?",
+    "options": [
+      "Mangkukutud",
+      "Aswang",
+      "Tikbalang",
+      "Mangkukulam"
+    ],
+    "answer": "Mangkukutud"
+  },
+  {
+    "question": "Ano ang mga paniniwala at tradisyon sa isang kultura?",
+    "options": [
+      "Mga kaugalian at pamamaraan na ipinasa sa mga henerasyon",
+      "Mga modernong batas na ginawa ng pamahalaan",
+      "Mga siyentipikong tuklas at imbensyon",
+      "Mga personal na hilig at interes"
+    ],
+    "answer": "Mga kaugalian at pamamaraan na ipinasa sa mga henerasyon"
+  },
+  {
+    "question": "Ito ay isang maliit na espiritu na may kakayahang magdulot sa isang tao ng hindi pangkaraniwang mga karamdaman?",
+    "options": [
+      "Dwende",
+      "Kapre",
+      "Nuno",
+      "Tikbalang"
+    ],
+    "answer": "Dwende"
+  },
+  {
+    "question": "Ang salitang Lubenas ay nagmula sa salitang?",
+    "options": [
+      "Grasya (Graces)",
+      "Siyam na araw na dasal (Novena)",
+      "Simbahan (Church)",
+      "Ritwal (Ritual)"
+    ],
+    "answer": "Siyam na araw na dasal (Novena)"
+  },
+  {
+    "question": "Ilang araw ipinagdiriwang ang Simbang Gabi?",
+    "options": [
+      "Siyam na araw",
+      "Pitong araw",
+      "Labindalawang araw",
+      "Isang buwan"
+    ],
+    "answer": "Siyam na araw"
+  }
+]

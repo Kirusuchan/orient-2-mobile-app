@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "Abak",
+    "kulitan": "Abak",
+    "english": "Morning",
+    "filipino": "Umaga",
+    "sentence": "Abak a maranun",
+    "sentenceFilipino": "Magandang umaga",
+    "sentenceEnglish": "Good morning",
+    "audio": "abak.mp3"
+  },
+  {
+    "word": "Aldo",
+    "kulitan": "Aldo",
+    "english": "Sun",
+    "filipino": "Araw",
+    "sentence": "Mayap a aldo",
+    "sentenceFilipino": "Magandang araw",
+    "sentenceEnglish": "Good day",
+    "audio": "aldo.mp3"
+  },
+  {
+    "word": "Albug",
+    "kulitan": "Albug",
+    "english": "Flood",
+    "filipino": "Baha",
+    "sentence": "Albug na ketang kantu",
+    "sentenceFilipino": "Lubog na sa kanto",
+    "sentenceEnglish": "Already flood in the street",
+    "audio": "albug.mp3"
+  },
+  {
+    "word": "Amuk",
+    "kulitan": "Amuk",
+    "english": "Mosquito",
+    "filipino": "Lamok",
+    "sentence": "Mekinis kung amuk",
+    "sentenceFilipino": "Nakagat ako ng lamok",
+    "sentenceEnglish": "I was bitten by a mosquito",
+    "audio": "amok.mp3"
+  },
+  {
+    "word": "Anak",
+    "kulitan": "Anak",
+    "english": "Child",
+    "filipino": "Anak",
+    "sentence": "Anak ka pa",
+    "sentenceFilipino": "Bata ka pa lang",
+    "sentenceEnglish": "You are just a kid",
+    "audio": "anak.mp3"
+  },
+  {
+    "word": "Ane",
+    "kulitan": "Ane",
+    "english": "Termite",
+    "filipino": "Anay",
+    "sentence": "Mesira la reng luklukan kasi atin lang ane",
+    "sentenceFilipino": "Nasira ang mga upuan dahil may anay",
+    "sentenceEnglish": "The chairs were damaged because of termites",
+    "audio": "ane.mp3"
+  },
+  {
+    "word": "Angin",
+    "kulitan": "Angin",
+    "english": "Air",
+    "filipino": "Hangin",
+    "sentence": "Masikan ing angin kilwal",
+    "sentenceFilipino": "Malakas ang hangin sa labas",
+    "sentenceEnglish": "The wind is strong outside",
+    "audio": "angin.mp3"
+  },
+  {
+    "word": "Api",
+    "kulitan": "Api",
+    "english": "Fire",
+    "filipino": "Apoy",
+    "sentence": "Malapit na ing api keng bale tamu",
+    "sentenceFilipino": "Malapit na ang apoy sa bahay natin",
+    "sentenceEnglish": "The fire is near our house",
+    "audio": "api.mp3"
+  },
+  {
+    "word": "Apu",
+    "kulitan": "Apu",
+    "english": "Grandchildren",
+    "filipino": "Apo",
+    "sentence": "Apu mune yan",
+    "sentenceFilipino": "Apo mo na yan",
+    "sentenceEnglish": "That is your grandchild",
+    "audio": "apu.mp3"
+  },
+  {
+    "word": "Asan",
+    "kulitan": "Asan",
+    "english": "Fish",
+    "filipino": "Isda",
+    "sentence": "Magtinda kung asan keng palengki",
+    "sentenceFilipino": "Nagtitinda ako ng isda sa palengke",
+    "sentenceEnglish": "I sell fish at the market",
+    "audio": "asan.mp3"
+  },
+  {
+    "word": "Asu",
+    "kulitan": "Asu",
+    "english": "Dog",
+    "filipino": "Aso",
+    "sentence": "Penagal da kaming asu",
+    "sentenceFilipino": "Hinabol kami ng aso",
+    "sentenceEnglish": "The dog chased us",
+    "audio": "asu.mp3"
+  },
+  {
+    "word": "Ayun",
+    "kulitan": "Ayun",
+    "english": "Earthquake",
+    "filipino": "Lindol",
+    "sentence": "Kasikan na ing ayun napon",
+    "sentenceFilipino": "Malakas ang lindol kahapon",
+    "sentenceEnglish": "The earthquake was strong yesterday",
+    "audio": "ayun.mp3"
+  },
+  {
+    "word": "Ayup",
+    "kulitan": "Ayup",
+    "english": "Bird",
+    "filipino": "Ibon",
+    "sentence": "Kasanting na pakpak ing ayup",
+    "sentenceFilipino": "Ang ganda ng pakpak ng ibon",
+    "sentenceEnglish": "The bird's wings are so beautiful",
+    "audio": "ayup.mp3"
+  },
+  {
+    "word": "Baguk",
+    "kulitan": "Baguk",
+    "english": "Shrimp paste",
+    "filipino": "Alamang",
+    "sentence": "Maglutu kung baguk pota tiltilan keng manga",
+    "sentenceFilipino": "Magluluto ako ng alamang mamaya sawsawan sa manga",
+    "sentenceEnglish": "I will cook shrimp paste later as a dipping for santol mango",
+    "audio": "baguk.mp3"
+  },
+  {
+    "word": "Bagyu",
+    "kulitan": "Bagyu",
+    "english": "Typhoon",
+    "filipino": "Bagyo",
+    "sentence": "Alang klasi bukas atin kasi bagyu",
+    "sentenceFilipino": "Walang pasok bukas dahil may bagyo",
+    "sentenceEnglish": "There is no school tomorrow because there is a typhoon",
+    "audio": "bagyu.mp3"
+  },
+  {
+    "word": "Bale",
+    "kulitan": "Bale",
+    "english": "House",
+    "filipino": "Bahay",
+    "sentence": "Kasanting na pangagawa ing bale",
+    "sentenceFilipino": "Ang ganda ng pagkakagawa ng bahay",
+    "sentenceEnglish": "The house is well constructed",
+    "audio": "bale.mp3"
+  },
+  {
+    "word": "Banua",
+    "kulitan": "Banua",
+    "english": "Moon",
+    "filipino": "Buwan",
+    "sentence": "Kule yang malutu ing banua",
+    "sentenceFilipino": "Kulay pula ang buwan",
+    "sentenceEnglish": "The moon is color red",
+    "audio": "banua.mp3"
+  },
+  {
+    "word": "Bapa",
+    "kulitan": "Bapa",
+    "english": "Uncle",
+    "filipino": "Tito",
+    "sentence": "Agkat nakung lumibut bapa ku",
+    "sentenceFilipino": "Inaaaya akong gumala ng tito ko",
+    "sentenceEnglish": "My uncle is inviting me to go out",
+    "audio": "bapa.mp3"
+  },
+  {
+    "word": "Babi",
+    "kulitan": "Babi",
+    "english": "Pig",
+    "filipino": "Baboy",
+    "sentence": "Pakanan kula pa retang sese ming babi",
+    "sentenceFilipino": "Papakainin ko muna ang alaga naming baboy",
+    "sentenceEnglish": "I will feed our pet pig first",
+    "audio": "babi.mp3"
+  },
+  {
+    "word": "Babagwa",
+    "kulitan": "Babagwa",
+    "english": "Spider",
+    "filipino": "Gagamba",
+    "sentence": "Mandakap kaming babagwa pinandit",
+    "sentenceFilipino": "Manghuhuli kami ng gagamba mamaya",
+    "sentenceEnglish": "We are going to catch spider later",
+    "audio": "babagwa.mp3"
+  },
+  {
+    "word": "Bangus",
+    "kulitan": "Bangus",
+    "english": "Milkfish",
+    "filipino": "Bangus",
+    "sentence": "Piritu me ing bangus para atin tamung ulam",
+    "sentenceFilipino": "Prituhin mo yung bangus para may ulam tayo",
+    "sentenceEnglish": "Fry the milkfish so we have a dish for our meal",
+    "audio": "bangus.mp3"
+  },
+  {
+    "word": "Batuin",
+    "kulitan": "Batuin",
+    "english": "Star",
+    "filipino": "Bituin",
+    "sentence": "Kasala da reng batuin ngeni",
+    "sentenceFilipino": "Maliwanag ang bituin ngayon",
+    "sentenceEnglish": "The star shines brightly now",
+    "audio": "batuin.mp3"
+  },
+  {
+    "word": "Bayo, Bilas",
+    "kulitan": "Bayo",
+    "english": "Sister or brother-in-law",
+    "filipino": "Hipag o bayaw",
+    "sentence": "Kayabe keng magobra ing bayo ku",
+    "sentenceFilipino": "Kasama kong magtrabaho ang bayaw ko",
+    "sentenceEnglish": "My brother-in-law is with me at work",
+    "audio": "bilas.mp3"
+  },
+  {
+    "word": "Bengi",
+    "kulitan": "Bengi",
+    "english": "Night",
+    "filipino": "Gabi",
+    "sentence": "Bengi na muli naka",
+    "sentenceFilipino": "Gabi na umuwi ka na",
+    "sentenceEnglish": "It's already night, you should go home now",
+    "audio": "bengi.mp3"
+  },
+  {
+    "word": "Bibi",
+    "kulitan": "Bibi",
+    "english": "Duck",
+    "filipino": "Pato",
+    "sentence": "Pakanan mu nala reng sese mung bibi",
+    "sentenceFilipino": "Pakainin mo na ang alaga mong pato",
+    "sentenceEnglish": "You should feed your pet duck now",
+    "audio": "bibi.mp3"
+  },
+  {
+    "word": "Bisitas",
+    "kulitan": "Bisitas",
+    "english": "Chapel",
+    "filipino": "Kapilya",
+    "sentence": "Atin mass keng bisitas patche dumingo",
+    "sentenceFilipino": "Merong mass sa kapilya tuwing linggo",
+    "sentenceEnglish": "There is Mass at the chapel every Sunday",
+    "audio": "bisitas.mp3"
+  },
+  {
+    "word": "Bingan",
+    "kulitan": "Bingan",
+    "english": "Snake",
+    "filipino": "Ahas",
+    "sentence": "Mekinis kung bingan nandin",
+    "sentenceFilipino": "Nakagat ako ng ahas kanina",
+    "sentenceEnglish": "I was bitten by a snake earlier",
+    "audio": "bingan.mp3"
+  },
+  {
+    "word": "Bubuyug",
+    "kulitan": "Bubuyug",
+    "english": "Bee",
+    "filipino": "Bubuyog",
+    "sentence": "Mengalbag la reng kinis bubuyug",
+    "sentenceFilipino": "Namaga ang mga kagat ng bubuyog",
+    "sentenceEnglish": "The bee stings have swollen",
+    "audio": "bubuyug.mp3"
+  },
+  {
+    "word": "Bulig",
+    "kulitan": "Bulig",
+    "english": "Catfish",
+    "filipino": "Hito",
+    "sentence": "Pisali mula reng bulig king palengki",
+    "sentenceFilipino": "Ibenta mo ang hito sa palengke",
+    "sentenceEnglish": "Sell the catfish at the market",
+    "audio": "bulig.mp3"
+  },
+  {
+    "word": "Buru",
+    "kulitan": "Buru",
+    "english": "Fermented fish",
+    "filipino": "Binurong isda",
+    "sentence": "Kaslam na pangagawa ing buro",
+    "sentenceFilipino": "Maasim ang pagkakagawa sa burong isda",
+    "sentenceEnglish": "The taste of the fermented fish is sour",
+    "audio": "buru.mp3"
+  },
+  {
+    "word": "Butiki",
+    "kulitan": "Butiki",
+    "english": "Lizard",
+    "filipino": "Butiki",
+    "sentence": "Lindagan naku ning butiki",
+    "sentenceFilipino": "Tumalon sa akin ang butiki",
+    "sentenceEnglish": "The lizard jumped on me",
+    "audio": "butuki.mp3"
+  },
+  {
+    "word": "Campo santo, Kabisantu",
+    "kulitan": "Campo santo",
+    "english": "Cemetery",
+    "filipino": "Sementeryo",
+    "sentence": "Munta kami kabisantu keng undas",
+    "sentenceFilipino": "Pupunta kaming sementeryo sa undas",
+    "sentenceEnglish": "We will go to the cemetery for All Saints' Day",
+    "audio": "campo santo.mp3"
+  },
+  {
+    "word": "Dagis",
+    "kulitan": "Dagis",
+    "english": "Mouse",
+    "filipino": "Daga",
+    "sentence": "Atin iming dagis ing baha",
+    "sentenceFilipino": "May ihi ng daga ang baha",
+    "sentenceEnglish": "The flood has rat urine",
+    "audio": "dagis.mp3"
+  },
+  {
+    "word": "Dalan",
+    "kulitan": "Dalan",
+    "english": "Path, road",
+    "filipino": "Daan",
+    "sentence": "Pane dane mung gagawan ing dalan",
+    "sentenceFilipino": "Lagi nalang nilang ginagawa ang daan",
+    "sentenceEnglish": "They are always fixing the road",
+    "audio": "dalan.mp3"
+  },
+  {
+    "word": "Damulag",
+    "kulitan": "Damulag",
+    "english": "Carabao",
+    "filipino": "Kalabaw",
+    "sentence": "Penagal da kaming damulat nandin",
+    "sentenceFilipino": "Hinabol kami ng kalabaw kanina",
+    "sentenceEnglish": "The carabao chased us earlier",
+    "audio": "damulag.mp3"
+  },
+  {
+    "word": "Danum",
+    "kulitan": "Danum",
+    "english": "Water",
+    "filipino": "Tubig",
+    "sentence": "Pangwa mu nakung danum inuman",
+    "sentenceFilipino": "Kuhanan mo nga ako ng tubig inumin",
+    "sentenceEnglish": "Please get me some water to drink",
+    "audio": "danum.mp3"
+  },
+  {
+    "word": "Dara",
+    "kulitan": "Dara",
+    "english": "Aunt",
+    "filipino": "Tita",
+    "sentence": "Puntalan me I dara mu keta",
+    "sentenceFilipino": "Puntahan mo ang tita mo doon",
+    "sentenceEnglish": "Go visit your aunt there",
+    "audio": "dara.mp3"
+  },
+  {
+    "word": "Dapu",
+    "kulitan": "Dapu",
+    "english": "Crocodile, Alligator",
+    "filipino": "Buwaya",
+    "sentence": "Mandakap tamung dapu",
+    "sentenceFilipino": "Manghuli tayo ng buwaya",
+    "sentenceEnglish": "Let's catch some crocodiles",
+    "audio": "dapu.mp3"
+  },
+  {
+    "word": "Ditak",
+    "kulitan": "Ditak",
+    "english": "Few",
+    "filipino": "Kaunti",
+    "sentence": "Ditak ne mu pala ing mitagan",
+    "sentenceFilipino": "Kaunti nalang pala ang natira",
+    "sentenceEnglish": "Looks like there is few left",
+    "audio": "ditak.mp3"
+  },
+  {
+    "word": "Duldul",
+    "kulitan": "Duldul",
+    "english": "Thunder",
+    "filipino": "Kulog",
+    "sentence": "Kasikan na ing duldul",
+    "sentenceFilipino": "Ang lakas ng kulog",
+    "sentenceEnglish": "The thunder is really loud",
+    "audio": "duldul.mp3"
+  },
+  {
+    "word": "Ema",
+    "kulitan": "Ema",
+    "english": "Crab",
+    "filipino": "Alimango",
+    "sentence": "Manyaman ulaman ing ema",
+    "sentenceFilipino": "Masarap ulamin ang alimango",
+    "sentenceEnglish": "Crab is delicious to eat",
+    "audio": "ema.mp3"
+  },
+  {
+    "word": "Ganing Aldo",
+    "kulitan": "Ganing Aldo",
+    "english": "Dawn, daybreak",
+    "filipino": "Madaling araw",
+    "sentence": "Ganing aldo pa magobra ne I tatang ku",
+    "sentenceFilipino": "Madaling araw palang nagtatrabaho na ang tatay ko",
+    "sentenceEnglish": "My dad starts working as early as dawn",
+    "audio": "ganing aldo.mp3"
+  },
+  {
+    "word": "Gabun",
+    "kulitan": "Gabun",
+    "english": "Soil",
+    "filipino": "Lupa",
+    "sentence": "Pelitan ku lang gabun deng tanaman",
+    "sentenceFilipino": "Pinalitan ko ng lupa ang halaman",
+    "sentenceEnglish": "I replaced the soil of the plant",
+    "audio": "gabun.mp3"
+  },
+  {
+    "word": "Gatpanapun",
+    "kulitan": "Gatpanapun",
+    "english": "Afternoon",
+    "filipino": "Hapon",
+    "sentence": "Pangaras na ning gatpanapun pane mumuran",
+    "sentenceFilipino": "Pag hapon na laging umuulan",
+    "sentenceEnglish": "It always rains in the afternoon",
+    "audio": "gatpanapun.mp3"
+  },
+  {
+    "word": "Gule",
+    "kulitan": "Gule",
+    "english": "Vegetable",
+    "filipino": "Gulay",
+    "sentence": "Tanam kang gule keng bakanting loti",
+    "sentenceFilipino": "Magtanim ka ng gulay sa bakanteng lote",
+    "sentenceEnglish": "Plant vegetables in the vacant lot",
+    "audio": "gule.mp3"
+  },
+  {
+    "word": "Ika / Ikayu",
+    "kulitan": "Ikayu",
+    "english": "You",
+    "filipino": "Ikaw, Kayo",
+    "sentence": "Ika itang magtindang malan",
+    "sentenceFilipino": "Ikaw yung nagtitinda ng damit",
+    "sentenceEnglish": "You are the one who selling clothes",
+    "audio": "ika.mp3"
+  },
+  {
+    "word": "Ikami",
+    "kulitan": "Ikami",
+    "english": "We",
+    "filipino": "Tayo",
+    "sentence": "Ikami ing pane sasali keka",
+    "sentenceFilipino": "Kami ang laging bumibili sayo",
+    "sentenceEnglish": "We are the ones who buy from you",
+    "audio": "ikami.mp3"
+  },
+  {
+    "word": "Ikata",
+    "kulitan": "Ikata",
+    "english": "You and I",
+    "filipino": "Ikaw at ako",
+    "sentence": "Ikata ing laging miyabe",
+    "sentenceFilipino": "Ikaw at ako ang laging magkasama",
+    "sentenceEnglish": "You and I are always together",
+    "audio": "ikata.mp3"
+  },
+  {
+    "word": "Ikayu ngan",
+    "kulitan": "Ikayu ngan",
+    "english": "All of you",
+    "filipino": "Kayong lahat",
+    "sentence": "Ikayu ngan ing sasawup kaku",
+    "sentenceFilipino": "Kayong lahat ang tumulong sakin",
+    "sentenceEnglish": "All of you helped me",
+    "audio": "ikayu ngan.mp3"
+  },
+  {
+    "word": "Ikatamu ngan",
+    "kulitan": "Itamu ngan",
+    "english": "All of us",
+    "filipino": "Tayong lahat",
+    "sentence": "Ikatamu ngan ing mikasalanan",
+    "sentenceFilipino": "Tayong lahat ang may kasalanan",
+    "sentenceEnglish": "All of us fault",
+    "audio": "ikatamu ngan.mp3"
+  },
+  {
+    "word": "Iskuwela",
+    "kulitan": "Iskuwela",
+    "english": "School",
+    "filipino": "Paaralan",
+    "sentence": "Kasanting na ning iskuwela ngeni",
+    "sentenceFilipino": "Maganda na ang paaralan ngayon",
+    "sentenceEnglish": "The school is beautiful now",
+    "audio": "iskwela.mp3"
+  },
+  {
+    "word": "Itamu",
+    "kulitan": "Itamu",
+    "english": "Us",
+    "filipino": "Tayo",
+    "sentence": "Itamu gang dulu",
+    "sentenceFilipino": "Tayo hanggang dulo",
+    "sentenceEnglish": "We are together until the end",
+    "audio": "itamu.mp3"
+  },
+  {
+    "word": "Ipu-ipu",
+    "kulitan": "Ipu-ipu",
+    "english": "Tornado",
+    "filipino": "Buhawi",
+    "sentence": "Mika ipu-ipu kanu aliwang bansa",
+    "sentenceFilipino": "Nagka buhawi daw sa ibang bansa",
+    "sentenceEnglish": "There was reportedly a tornado in another country",
+    "audio": "ipu-ipu.mp3"
+  },
+  {
+    "word": "Kapatad",
+    "kulitan": "Kapatad",
+    "english": "Sibling",
+    "filipino": "Kapatid",
+    "sentence": "Kagi lang mipapate ning kapatad na",
+    "sentenceFilipino": "Lagi silang nag-aaway ng kapatid nya",
+    "sentenceEnglish": "They are always fighting with his sibling",
+    "audio": "kapatad.mp3"
+  },
+  {
+    "word": "Kapitangang Bengi",
+    "kulitan": "Kapitangang Bengi",
+    "english": "Midnight",
+    "filipino": "Hating gabi",
+    "sentence": "Pane nemung mumuling kapitangang bengi",
+    "sentenceFilipino": "Lagi na lang umuuwi ng hating gabi",
+    "sentenceEnglish": "She always comes home at midnight",
+    "audio": "kapitangang bengi.mp3"
+  },
+  {
+    "word": "Kildap",
+    "kulitan": "Kildap",
+    "english": "Lightning",
+    "filipino": "Kidlat",
+    "sentence": "Ginulis ya ing kildap keng langit",
+    "sentenceFilipino": "Gumuhit ang kidlat sa langit",
+    "sentenceEnglish": "A lightning bolt struck across the sky",
+    "audio": "kildap.mp3"
+  },
+  {
+    "word": "Lagu",
+    "kulitan": "Lagu",
+    "english": "Beauty",
+    "filipino": "Ganda",
+    "sentence": "Aliwa ya lagu ing anak ng Pising",
+    "sentenceFilipino": "Iba ang ganda ng anak ni Pising",
+    "sentenceEnglish": "The beauty of the child of Pising",
+    "audio": "lagu.mp3"
+  },
+  {
+    "word": "Lataklatak",
+    "kulitan": "Lataklatak",
+    "english": "Leftover",
+    "filipino": "Natira",
+    "sentence": "Pane ng lataklatak ing kakanan ku",
+    "sentenceFilipino": "Lagi nalang tiratira ang kinakain ko",
+    "sentenceEnglish": "I only eat the leftover",
+    "audio": "lataklatak.mp3"
+  },
+  {
+    "word": "Lango",
+    "kulitan": "Lango",
+    "english": "Fly (insect)",
+    "filipino": "Langaw",
+    "sentence": "Ditak ku nemu apangan ing lango",
+    "sentenceFilipino": "Muntik ko na makain ang langaw",
+    "sentenceEnglish": "I almost ate the fly",
+    "audio": "lango.mp3"
+  },
+  {
+    "word": "Lugud",
+    "kulitan": "Lugud",
+    "english": "Love",
+    "filipino": "Mahal",
+    "sentence": "Luguran me alu me pag lokwan",
+    "sentenceFilipino": "Mahalin mo wag mo lokohin",
+    "sentenceEnglish": "Love her, don't deceive her",
+    "audio": "lugud.mp3"
+  },
+  {
+    "word": "Mababa",
+    "kulitan": "Mababa",
+    "english": "Low",
+    "filipino": "Mababa",
+    "sentence": "Mababa ya masyadu ing mutor kaya ya gagasgas ya lalam",
+    "sentenceFilipino": "Mababa masyado ang motor kaya gumagasgas sa ilalim",
+    "sentenceEnglish": "The motor is too low, so it scrapes the bottom",
+    "audio": "mababa.mp3"
+  },
+  {
+    "word": "Mabanglu",
+    "kulitan": "Mabanglu",
+    "english": "Aromatic",
+    "filipino": "Mabango",
+    "sentence": "Mabanglu ka pag bayu kang dilu",
+    "sentenceFilipino": "Mabango ka pagtapos mo maligo",
+    "sentenceEnglish": "You smell good after you take a bath",
+    "audio": "mabanglu.mp3"
+  },
+  {
+    "word": "Madagul",
+    "kulitan": "Madagul",
+    "english": "Big",
+    "filipino": "Malaki",
+    "sentence": "Madagul ya ing singsing",
+    "sentenceFilipino": "Malaki ang singsing",
+    "sentenceEnglish": "The ring is too big",
+    "audio": "madagul.mp3"
+  },
+  {
+    "word": "Makuyad",
+    "kulitan": "Makuyad",
+    "english": "Short",
+    "filipino": "Maikli",
+    "sentence": "Makuyad ku pasensya ali me sasagaran",
+    "sentenceFilipino": "Maiksi lang ang pasensya ko kaya wag mo sagarin",
+    "sentenceEnglish": "I have a short temper, so don't push it",
+    "audio": "makuyad.mp3"
+  },
+  {
+    "word": "Malagu",
+    "kulitan": "Malagu",
+    "english": "Beautiful",
+    "filipino": "Maganda",
+    "sentence": "Malagu ya ing babaing ini",
+    "sentenceFilipino": "Maganda ang babae na ito",
+    "sentenceEnglish": "This woman is beautiful",
+    "audio": "malagu.mp3"
+  },
+  {
+    "word": "Malangi",
+    "kulitan": "Malangi",
+    "english": "Dry",
+    "filipino": "Tuyo",
+    "sentence": "Malangi nala reng tanaman dapat nalang diligan",
+    "sentenceFilipino": "Tuyo na ang halaman kailangan ng diligan",
+    "sentenceEnglish": "The plant is dry, it needs to be watered",
+    "audio": "malangi.mp3"
+  },
+  {
+    "word": "Malapit",
+    "kulitan": "Malapit",
+    "english": "Near",
+    "filipino": "Malapit",
+    "sentence": "Malapit yamu keng kekami",
+    "sentenceFilipino": "Malapit lang samin",
+    "sentenceEnglish": "It's near to our place",
+    "audio": "malapit.mp3"
+  },
+  {
+    "word": "Malati",
+    "kulitan": "Malati",
+    "english": "Small",
+    "filipino": "Maliit",
+    "sentence": "Malati ka pa anyang akit daka",
+    "sentenceFilipino": "Maliit ka palang nung nakita kita",
+    "sentenceEnglish": "You were small when I first saw you",
+    "audio": "malati.mp3"
+  },
+  {
+    "word": "Malwat",
+    "kulitan": "Malwat",
+    "english": "Far",
+    "filipino": "Malayo",
+    "sentence": "Malwat ka bale",
+    "sentenceFilipino": "Malayo ang bahay mo",
+    "sentenceEnglish": "Your house is so far",
+    "audio": "malwat.mp3"
+  },
+  {
+    "word": "Mangan",
+    "kulitan": "Mangan",
+    "english": "Eat",
+    "filipino": "Kain",
+    "sentence": "Mangan tana",
+    "sentenceFilipino": "Kain na tayo",
+    "sentenceEnglish": "Let's eat",
+    "audio": "mangan.mp3"
+  },
+  {
+    "word": "Manyaman",
+    "kulitan": "Manyaman",
+    "english": "Delicious",
+    "filipino": "Masarap",
+    "sentence": "Manyaman a pamangan",
+    "sentenceFilipino": "Masarap na pagkain",
+    "sentenceEnglish": "Delicious foods",
+    "audio": "manyaman.mp3"
+  },
+  {
+    "word": "Manuk",
+    "kulitan": "Manuk",
+    "english": "Chicken",
+    "filipino": "Manok",
+    "sentence": "Pakanan mu nala retang manuk",
+    "sentenceFilipino": "Pakainin mo na ang mga manok",
+    "sentenceEnglish": "Feed the chickens now",
+    "audio": "manuk.mp3"
+  },
+  {
+    "word": "Mapali",
+    "kulitan": "Mapali",
+    "english": "Hot",
+    "filipino": "Mainit",
+    "sentence": "Mapali keng kilwal kaya eka lulwal",
+    "sentenceFilipino": "Mainit sa labas kaya wag kang lalabas",
+    "sentenceEnglish": "It's hot outside, so don't go out",
+    "audio": "mapali.mp3"
+  },
+  {
+    "word": "Marimla",
+    "kulitan": "Marimla",
+    "english": "Cold",
+    "filipino": "Malamig",
+    "sentence": "Marimla pag makapaslag ya ing aircon",
+    "sentenceFilipino": "Malamig pag naka bukas ang aircon",
+    "sentenceEnglish": "It's cold when the aircon is on",
+    "audio": "marimla.mp3"
+  },
+  {
+    "word": "Masanting",
+    "kulitan": "Masanting",
+    "english": "Handsome",
+    "filipino": "Gwapo",
+    "sentence": "Kasanting na naman ing lalaking ayni",
+    "sentenceFilipino": "Ang gwapo naman ng lalaking ito",
+    "sentenceEnglish": "This guy is really handsome",
+    "audio": "masanting.mp3"
+  },
+  {
+    "word": "Matas",
+    "kulitan": "Matas",
+    "english": "High",
+    "filipino": "Mataas",
+    "sentence": "Matas ya itang bunga ning bayabas",
+    "sentenceFilipino": "Mataas ang bunga ng bayabas",
+    "sentenceEnglish": "The guava fruit is so high",
+    "audio": "matas.mp3"
+  },
+  {
+    "word": "Balen",
+    "kulitan": "Balen",
+    "english": "Town",
+    "filipino": "Bayan",
+    "sentence": "Mumunlad ya ing balen da",
+    "sentenceFilipino": "Umuunlad ang bayan nila",
+    "sentenceEnglish": "Their town is prospering",
+    "audio": "balen.mp3"
+  },
+  {
+    "word": "Muwa",
+    "kulitan": "Muwa",
+    "english": "Anger",
+    "filipino": "Galit",
+    "sentence": "Muwa ku ketang menumbuk keka",
+    "sentenceFilipino": "Galit ako sa sumuntok sayo",
+    "sentenceEnglish": "I'm angry at the one who punched you",
+    "audio": "muwa.mp3"
+  },
+  {
+    "word": "Pamangan",
+    "kulitan": "Pamangan",
+    "english": "Food",
+    "filipino": "Pagkain",
+    "sentence": "Magdala kang dakal a pamangan keng outing",
+    "sentenceFilipino": "Magdala ka nang maraming pagkain sa outing",
+    "sentenceEnglish": "Bring a lot of food to the outing",
+    "audio": "pamangan.mp3"
+  },
+  {
+    "word": "Panas, Salusad",
+    "kulitan": "Panas",
+    "english": "Ant",
+    "filipino": "Langgam",
+    "sentence": "Mengakinis kung panas ketang lalam tanaman",
+    "sentenceFilipino": "Nakagat ako ng langgam sa ilalim ng puno",
+    "sentenceEnglish": "I was bitten by an ant under the tree",
+    "audio": "panas.mp3"
+  },
+  {
+    "word": "Paro",
+    "kulitan": "Paro",
+    "english": "Shrimp",
+    "filipino": "Hipon",
+    "sentence": "Ali ku mamangan paro",
+    "sentenceFilipino": "Hindi ako kumakain ng hipon",
+    "sentenceEnglish": "I don't eat shrimp",
+    "audio": "paro.mp3"
+  },
+  {
+    "word": "Paru-paru",
+    "kulitan": "Paru-paru",
+    "english": "Butterfly",
+    "filipino": "Paro paro",
+    "sentence": "Atin maragul a paru-paru dinugpa kaku",
+    "sentenceFilipino": "May paru-parong dumapo sakin",
+    "sentenceEnglish": "A butterfly landed on me",
+    "audio": "paruparu.mp3"
+  },
+  {
+    "word": "Pengari",
+    "kulitan": "Pengari",
+    "english": "Parent",
+    "filipino": "Magulang",
+    "sentence": "Luguran mu la reng pengari mu",
+    "sentenceFilipino": "Mahalin mo ang mga magulang mo",
+    "sentenceEnglish": "Love your parents",
+    "audio": "pengari.mp3"
+  },
+  {
+    "word": "Pisan",
+    "kulitan": "Pisan",
+    "english": "Cousin",
+    "filipino": "Pinsan",
+    "sentence": "Kaluguran ku la reng pisan ku",
+    "sentenceFilipino": "Kaibigan ko ang mga pinsan ko",
+    "sentenceEnglish": "My cousins are my friends",
+    "audio": "pisan.mp3"
+  },
+  {
+    "word": "Pisamban",
+    "kulitan": "Pisamban",
+    "english": "Church",
+    "filipino": "Simbahan",
+    "sentence": "Malwalas ya ing pisamban",
+    "sentenceFilipino": "Malawak ang simbahan",
+    "sentenceEnglish": "The church is spacious",
+    "audio": "pisamban.mp3"
+  },
+  {
+    "word": "Prutas",
+    "kulitan": "Prutas",
+    "english": "Fruits",
+    "filipino": "Prutas",
+    "sentence": "Marakal ku prutas seli",
+    "sentenceFilipino": "Marami akong prutas na binili",
+    "sentenceEnglish": "I bought a lot of fruits",
+    "audio": "prutas.mp3"
+  },
+  {
+    "word": "Pusa",
+    "kulitan": "Pusa",
+    "english": "Cat",
+    "filipino": "Pusa",
+    "sentence": "Dakal ku seseng pusa",
+    "sentenceFilipino": "Marami akong alagang pusa",
+    "sentenceEnglish": "I have a lot of pet cats",
+    "audio": "pusa.mp3"
+  },
+  {
+    "word": "Sampaga",
+    "kulitan": "Sampaga",
+    "english": "Flower",
+    "filipino": "Bulaklak",
+    "sentence": "Mabanglu ya ing sampaga",
+    "sentenceFilipino": "Mabango ang bulaklak",
+    "sentenceEnglish": "The flowers are fragrant",
+    "audio": "sampaga.mp3"
+  },
+  {
+    "word": "Sisilim",
+    "kulitan": "Sisilim",
+    "english": "Dusk",
+    "filipino": "Takipsilim",
+    "sentence": "Dalak lalakad kilwal pag sisilim",
+    "sentenceFilipino": "Maraming naglalakad sa daan kapag takipsilim",
+    "sentenceEnglish": "Many people walk on the road at dusk",
+    "audio": "sisilim.mp3"
+  },
+  {
+    "word": "Tanaman",
+    "kulitan": "Tanaman",
+    "english": "Plant",
+    "filipino": "Halaman",
+    "sentence": "Masanting la reng tanaman keng bakuran",
+    "sentenceFilipino": "Maganda ang halaman sa bakuran",
+    "sentenceEnglish": "The plants in the yard are beautiful",
+    "audio": "tanaman.mp3"
+  },
+  {
+    "word": "Tegawan",
+    "kulitan": "Tegawan",
+    "english": "Godparent",
+    "filipino": "Ninong",
+    "sentence": "Gewa dakung tegawan",
+    "sentenceFilipino": "Ginawa nila akong ninong",
+    "sentenceEnglish": "They made me a godparents",
+    "audio": "tegawan.mp3"
+  },
+  {
+    "word": "Tete",
+    "kulitan": "Tete",
+    "english": "Bridge",
+    "filipino": "Tulay",
+    "sentence": "Dakal lalabas keng tete",
+    "sentenceFilipino": "Maraming dumadaan sa tulay",
+    "sentenceEnglish": "Many people are crossing the bridge",
+    "audio": "tete.mp3"
+  },
+  {
+    "word": "Tulang",
+    "kulitan": "Tulang",
+    "english": "Dragonfly",
+    "filipino": "Tutubi",
+    "sentence": "Mandakap ka tang tulang",
+    "sentenceFilipino": "Manghuhuli tayo ng tutubi",
+    "sentenceEnglish": "Let's catch dragonflies",
+    "audio": "tulang.mp3"
+  },
+  {
+    "word": "Ulap",
+    "kulitan": "Ulap",
+    "english": "Cloud",
+    "filipino": "Ulap",
+    "sentence": "Matuling ing ulap balamu muran",
+    "sentenceFilipino": "Madilim ang ulap parang uulan",
+    "sentenceEnglish": "The clouds are dark, it looks like it's going to rain",
+    "audio": "ulap.mp3"
+  },
+  {
+    "word": "Ugtu",
+    "kulitan": "Ugtu",
+    "english": "Noon",
+    "filipino": "Tanghali",
+    "sentence": "Mayap a ugtu",
+    "sentenceFilipino": "Magandang tanghali",
+    "sentenceEnglish": "Good noon",
+    "audio": "ugtu.mp3"
+  },
+  {
+    "word": "Uran",
+    "kulitan": "Uran",
+    "english": "Rain",
+    "filipino": "Ulan",
+    "sentence": "Masikan ing uran kening kekami",
+    "sentenceFilipino": "Malakas ang ulan sa amin",
+    "sentenceEnglish": "The rain is heavy here",
+    "audio": "uran.mp3"
+  },
+  {
+    "word": "Uspital",
+    "kulitan": "Uspital",
+    "english": "Hospital",
+    "filipino": "Ospital",
+    "sentence": "Dela de uspital itang manganak",
+    "sentenceFilipino": "Dinala nila sa ospital ang manganganak",
+    "sentenceEnglish": "They took the woman in labor to the hospital",
+    "audio": "uspital.mp3"
+  },
+  {
+    "word": "Ubingan",
+    "kulitan": "Ubingan",
+    "english": "Snake",
+    "filipino": "Ahas",
+    "sentence": "Maragul na nitang ubingan",
+    "sentenceFilipino": "Malaki ang ahas",
+    "sentenceEnglish": "The snake is big",
+    "audio": "ubingan.mp3"
+  },
+  {
+    "word": "Yaku",
+    "kulitan": "Yaku",
+    "english": "I",
+    "filipino": "Ako",
+    "sentence": "Yaku ing mikasalanan",
+    "sentenceFilipino": "Ako ang may kasalanan",
+    "sentenceEnglish": "I am the one at fault",
+    "audio": "yaku.mp3"
+  },
+  {
+    "word": "Yatu",
+    "kulitan": "Yatu",
+    "english": "Earth",
+    "filipino": "Daigdig",
+    "sentence": "Masanting ing yatu na tuknangan tamu",
+    "sentenceFilipino": "Maganda ang daigdig na ating tinitirhan",
+    "sentenceEnglish": "The world we live in is beautiful",
+    "audio": "yatu.mp3"
+  }
+]

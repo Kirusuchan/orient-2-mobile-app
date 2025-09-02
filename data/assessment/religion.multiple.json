@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Who is considered the great elder and creator of the heavens in Kapampangan mythology?",
+    "options": ["Aring Sinukuan", "Mangatia", "Apûng Malyari", "Indung Tibuan"],
+    "answer": "Mangatia"
+  },
+  {
+    "question": "Which deity is the Kapampangan sun god of war and death, and also taught metallurgy and rice culture?",
+    "options": ["Gatpanapun", "Tala", "Aring Sinukuan", "Lakandanup"],
+    "answer": "Aring Sinukuan"
+  },
+  {
+    "question": "Who is the moon god who lives in Mt. Pinatubo and rules over eight rivers?",
+    "options": ["Apûng Malyari", "Mangechay", "Lakanapi", "Cargo-Cargo"],
+    "answer": "Apûng Malyari"
+  },
+  {
+    "question": "Which deity is known as the bright star and introduced wet-rice culture?",
+    "options": ["Tala", "Sisilim", "Lakanbini", "Munag Sumalâ"],
+    "answer": "Tala"
+  },
+  {
+    "question": "Who is also known as the golden serpent and represents dawn?",
+    "options": ["Lakandanup", "Munag Sumalâ", "Lakanbini", "Angin"],
+    "answer": "Munag Sumalâ"
+  },
+  {
+    "question": "What does Kapampangan indigenous religion refer to?",
+    "options": [
+      "The traditional beliefs and practices of the Kapampangans before foreign influences",
+      "The modern Christian practices in Pampanga",
+      "Religious festivals introduced during Spanish colonization",
+      "Western scientific beliefs adopted in Kapampangan communities"
+    ],
+    "answer": "The traditional beliefs and practices of the Kapampangans before foreign influences"
+  },
+  {
+    "question": "Whose name means 'afternoon' and is the son of Aring Sinukuan who only knew pleasure?",
+    "options": ["Gatpanapun", "Lakandanup", "Munag Sumalâ", "Cargo-Cargo"],
+    "answer": "Gatpanapun"
+  },
+  {
+    "question": "A gigantic crocodile diety that supports the earth?",
+    "options": ["Indung Tibuan", "Apung Iru", "Sisilim", "Lakanbini"],
+    "answer": "Apung Iru"
+  },
+  {
+    "question": "Who is the child of Apûng Malyari and represents dusk, greeted by the songs of the cicada?",
+    "options": ["Tala", "Sisilim", "Munag Sumalâ", "Angin"],
+    "answer": "Sisilim"
+  },
+  {
+    "question": "A god of wind?",
+    "options": ["Galurâ", "Nága", "Angin", "Apung Iru"],
+    "answer": "Angin"
+  },
+  {
+    "question": "Which serpent deity is considered protective and acts as a talisman against fire?",
+    "options": ["Lakandanum", "Naga", "Lakanapi", "Cargo-Cargo"],
+    "answer": "Naga"
+  },
+  {
+    "question": "Which deity is a water-ruling variant of the Naga?",
+    "options": ["Lakandanum", "Galurâ", "Lakanapi", "Indung Tibuan"],
+    "answer": "Lakandanum"
+  },
+  {
+    "question": "Who is the goddess of rice?",
+    "options": ["Apung Iru", "Lakanbini", "Cargo-Cargo", "Angin"],
+    "answer": "Lakanbini"
+  },
+  {
+    "question": "Which fire god, in the form of a dragon serpent, causes earthquakes?",
+    "options": ["Lakanapi", "Lakandanup", "Galurâ", "Angin"],
+    "answer": "Lakanapi"
+  },
+  {
+    "question": "Who is the Kapampangan earth goddess?",
+    "options": ["Lakanbini", "Tala", "Indung Tibuan", "Sisilim"],
+    "answer": "Indung Tibuan"
+  }
+]

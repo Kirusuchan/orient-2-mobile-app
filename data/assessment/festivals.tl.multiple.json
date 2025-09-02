@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Ano ang Kuraldal sa kultura ng Kapampangan?",
+    "options": [
+      "Isang prusisyong pantilog",
+      "Pagsasayaw sa kalye (Street dancing)",
+      "Isang muling pagsasadula ng labanan",
+      "Pag-awit sa Mahal na Araw"
+    ],
+    "answer": "Pagsasayaw sa kalye (Street dancing)"
+  },
+  {
+    "question": "Kailan nagsisimula ang Kuraldal festival sa Sasmuan?",
+    "options": [
+      "Disyembre 13",
+      "Enero 1",
+      "Disyembre 25",
+      "Enero 6"
+    ],
+    "answer": "Disyembre 13"
+  },
+  {
+    "question": "Aling kapistahang Kapampangan ang may gawaing mga lalaking nagbibihis ng babae tuwing Enero 1?",
+    "options": [
+      "Curaldal",
+      "Aguman Sanduk",
+      "Piestang Danum",
+      "Mal a Aldo"
+    ],
+    "answer": "Aguman Sanduk"
+  },
+  {
+    "question": "Kailan nagsimula ang tradisyon ng Aguman Sanduk?",
+    "options": [
+      "1934",
+      "1920",
+      "1945",
+      "1950"
+    ],
+    "answer": "1934"
+  },
+  {
+    "question": "Ang Batalla Festival ay muling pagsasadula ng isang labanan sa pagitan ng?",
+    "options": [
+      "Mga Kastila at mga Kapampangan",
+      "Mga Muslim Moro at Kristiyanong Kapampangan",
+      "Mga mangangalakal na Intsik at mga lokal",
+      "Mga Amerikano at Pilipino"
+    ],
+    "answer": "Mga Muslim Moro at Kristiyanong Kapampangan"
+  },
+  {
+    "question": "Sa Batalla Festival, kailan karaniwang nagtatapos ang muling pagsasadula?",
+    "options": [
+      "Sa pagsikat ng araw",
+      "Sa paglubog ng araw",
+      "Sa hatinggabi",
+      "Sa tanghali"
+    ],
+    "answer": "Sa paglubog ng araw"
+  },
+  {
+    "question": "Ang Piestang Danum ay orihinal na isang?",
+    "options": [
+      "Kristiyanong pagdiriwang ng binyag",
+      "Pista ng ani",
+      "Hindi Kristiyanong pista",
+      "Pagdiriwang ng Bagong Taon"
+    ],
+    "answer": "Hindi Kristiyanong pista"
+  },
+  {
+    "question": "Sa Piestang Danum, ang pagkain ay inihahain sa?",
+    "options": [
+      "Mga bangkang pangisda",
+      "Mga kariton na kahoy",
+      "Mga floating na balsa na gawa sa saging",
+      "Mga hapag na kawayan"
+    ],
+    "answer": "Mga floating na balsa na gawa sa saging"
+  },
+  {
+    "question": "Ang fluvial procession ng Apung Iru ay idinaraos bilang parangal kay?",
+    "options": [
+      "San Pedro",
+      "San Jose",
+      "Santa Lucia",
+      "San Juan"
+    ],
+    "answer": "San Pedro"
+  },
+  {
+    "question": "Ang prusisyon ng Apung Iru ay orihinal na isang pagdiriwang ng pasasalamat para sa?",
+    "options": [
+      "Isang masaganang ani",
+      "Ang ilog",
+      "Anibersaryo ng simbahan",
+      "Ang Bagong Taon"
+    ],
+    "answer": "Ang ilog"
+  },
+  {
+    "question": "Ano ang pinaniniwalaang mangyayari kapag sumayaw at sumigaw ang mga deboto sa Kuraldal festival sa Sasmuan?",
+    "options": [
+      "Tumanggap sila ng mga biyaya, kabilang ang pagiging fertile para sa mga babaeng baog",
+      "Nagdadala ito ng ulan para sa mga pananim",
+      "Pinararangalan nila ang mga yumaong ninuno",
+      "Tinitiyak nila ang isang magandang ani ng palay"
+    ],
+    "answer": "Tumanggap sila ng mga biyaya, kabilang ang pagiging fertile para sa mga babaeng baog"
+  },
+  {
+    "question": "Ang Batalla Festival ay ipinagdiriwang sa aling mga bayan ng Pampanga?",
+    "options": [
+      "Apalit, Santa Rita, at Bacolor",
+      "Masantol, Macabebe, at Lubao",
+      "Guagua, Mabalacat, at Angeles City",
+      "San Fernando, Arayat, at Mexico"
+    ],
+    "answer": "Masantol, Macabebe, at Lubao"
+  },
+  {
+    "question": "Kailan idinaraos ang Aguman Sanduk?",
+    "options": [
+      "Enero 1",
+      "Disyembre 25",
+      "Pebrero 14",
+      "Marso 1"
+     ],
+    "answer": "Enero 1"
+  },
+  {
+    "question": "Sino ang kronistang Kastila na nagtala ng tradisyong Kuraldal noong 1698?",
+    "options": [
+      "Gaspar de San Agustin",
+      "Miguel de Cervantes",
+      "Antonio Pigafetta",
+      "Pedro Chirino"
+    ],
+    "answer": "Gaspar de San Agustin"
+  },
+  {
+    "question": "Aling kapistahang Kapampangan ang isang makulay na prusisyong pantilog sa Apalit?",
+    "options": [
+      "Apung Iru",
+      "Kuraldal",
+      "Aguman Sanduk",
+      "Simbang Gabi"
+    ],
+    "answer": "Apung Iru"
+  }
+]

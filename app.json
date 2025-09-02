@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "Orient 2",
+    "slug": "orient-2",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/official-logoV2.png",
+    "scheme": "orient2",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-screenV2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FDF7E3"
+    },
+    "ios": {
+      "icon": "./assets/images/ios-icon.png",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kiruzx.orient2",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "This app requires microphone access to play and record audio for learning purposes.",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "icon": "./assets/images/android-icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/official-logoV2.png",
+        "backgroundColor": "#FDF7E3"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.kirusuchan.orient2",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen",
+      "expo-font",
+      "expo-av"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "7a134092-b5b0-4264-a365-cfb84ab2caf2"
+      }
+    },
+    "owner": "kiruzx"
+  }
+}
